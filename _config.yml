@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "USTC数学课程往年试卷 / USTC数学课程往年试卷"
+title                    : "USTC数学课程往年试卷"
 title_separator          : "-"
-name                     : &name "USTC数学课程往年试卷"
+name                     : &name "USTC数学课程试卷"
 description              : &description "脚踏实地，鼓足干劲，力争上游！"
 url                      : https://ustcmathexam.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
