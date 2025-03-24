@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "USTC数学课程往年试卷"
 title_separator          : "-"
 name                     : &name "USTC数学课程试卷"
-description              : &description "脚踏实地，鼓足干劲，力争上游！"
+description              : &description "我们的征途是星辰大海！"
 url                      : https://ustcmathexam.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ustcmathexam/ustcmathexam.github.io"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "USTCSMS.png"
   name             : "USTC MATH EXAM"
-  bio              : "脚踏实地，鼓足干劲，力争上游！"
+  bio              : "我们的征途是星辰大海！"
   location         : "中国科学技术大学"
   email            : "ustcmathexam@gmail.com" 
 
