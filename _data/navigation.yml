@@ -8,26 +8,21 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "分析/方程"
+    url: /APDE/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "几何/拓扑"
+    url: /GeoTopo/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "概率/统计"
+    url: /ProbStat/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "代数/数论"
+    url: /AlgNT/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "应数/计算"
+    url: /AMCM/
     
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "通修课程"
+    url: /Services/
+  
