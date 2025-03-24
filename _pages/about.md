@@ -1,49 +1,40 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "USTC数学课往年考卷合集"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+欢迎各位科大同学访问这个主页。由于2013级数院的章俊彦学长将于2025年秋季学期入职科大数院，他的 [USTC学习资料页面](https://www.zhangjy9610.me/USTCdata.html) 将要下架所有往年数学试卷。现由本匿名帐号（仍由科大数学专业毕业生运营）接手运营该页面，幻影各位科大同学投稿试卷。我们做这个主页的目的是为了让科大同学以尽可能小的代价，走尽量少的弯路，更高效地学习数学专业课。
 
-A data-driven personal website
+本页面的运营者与科大数院官方无关，也请各位老师不要干涉本页面的运营。
+
+本主页大约每隔三个月集中一次，并不根据投稿时间实时更新。
+
+试卷投稿须知
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+请将试卷整理好后发至邮箱 "ustcmathexam.gmail.com" 并附上您的姓名、年级（如果您不想出现在致谢名单上，请在邮件里注明），请尽量使用PDF格式投稿。如果是照片版本，请将其转换成可读性较强的PDF之后再投稿，例如使用“扫描全能王”等app即可完成。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+注意：请不要投稿非数学课的试卷。
 
-Getting started
+注意：我们收到您投稿的试卷后，通常不会回复您的邮件，除非您遗漏了附件或者试卷内容不清晰。
+
+致谢名单
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+以下名单是从章俊彦学长之前的主页复制来的，排序按照本科入学年级+姓氏首字母。请您投稿时附带注明您的姓名、年级，除非您希望匿名投稿。
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+本页面的贡献者有：（如有年级标注错误，请您邮件联系我们）
+2013：章俊彦
+2014：程元博、马耀武、毛天乐、吴昊、张桐
+2015：龚禹霖、刘俊邦、王靖霖、姚钧夫、尹宏旻
+2016：蔡敬斌、李文博、欧阳恒忠、单逸、王博涵、王浩然、王翌宇、徐峥、周潇翔
+2017：胡佳琪、黄泰来、刘卓昊、邵锋、王若愚、肖宇、严大燊
+2018：初君涵、范惟、付杰、顾振邦、洪放、黄文瑞、李书亮、李禹龙、梁浩哲、刘志涵、骆霄龙、吕润草、盛方泽、田珺昊、王麒翔、徐晟景、杨笑东、叶子恺、叶子逍、周佳诺、邹广翼
+2019：鲍泽宇、季严彪、李轩宇、沈哲锋、孙孝同、吴贝宁、肖奕、徐滔、杨威、杨翔宇、于飞鸿、章成昊、张铎瀚、张奇、张永畅、赵天麒、周靖淞、周文斌、朱海鑫、宗语轩
+2020：曹超、Guan Yifeng（该投稿人没有提供中文姓名）、黄天一、任宣霏、谭午烜、吴凯、曾相如
+2021：程煜、罗梓丹、于俊骜、曾芑润、赵奕
+2022：陈睿涵、陈卓、陈左扬、凯赛尔·艾则孜、梁儒彬、刘飞鹏、邱奥文、王文政、尹宇辰、张哲琛
+2023：程奕斌、邓博文、廖思宇、杨弘宇、杨文颜、周芾
+2024：李亦凡、赖志朋
