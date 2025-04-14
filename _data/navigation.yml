@@ -23,7 +23,7 @@ main:
   - title: "应数/计算"
     url: /AMCM/
 
-   - title: "图论/组合"
+  - title: "图论/组合"
     url: /Combinatorics/
     
   - title: "通修课程"
