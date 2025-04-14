@@ -1,6 +1,5 @@
 ---
 title: "分析/方程"
-permalink: /APDE/
 layout: single  # 单栏布局
 ---
 
