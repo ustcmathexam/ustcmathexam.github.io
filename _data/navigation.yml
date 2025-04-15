@@ -20,11 +20,8 @@ main:
   - title: "代数/数论"
     url: /AlgNT/
         
-  - title: "应数/计算"
+  - title: "应数/图论"
     url: /AMCM/
-
-  - title: "图论/组合"
-    url: /Combinatorics/
     
   - title: "通修课程"
     url: /Services/
