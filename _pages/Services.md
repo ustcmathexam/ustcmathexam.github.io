@@ -41,9 +41,9 @@ layout: single  # 单栏布局
 |2019| [统考](../USTC/2019MAA2mid.pdf) | 暂缺 | 王毅、罗罗 |
 |2020| 暂缺 | [统考](../USTC/2020MAA2final.pdf) | 邓建松、许斌 |
 |2021| [1](../USTC/2021MAA2test1.pdf)、[2](../USTC/2021MAA2test2.pdf)、[3](../USTC/2021MAA2test3.pdf) | [统考](../USTC/2021MAA2final.pdf) | 邓建松、罗罗 |
-|2022| [1](../USTC/2022MAA2mid1.pdf)、[3](../USTC/2022MAA2mid2.pdf)、[3](../USTC/2022MAA2mid3.pdf) | 暂缺 | 邓建松、罗罗 |
-|2023| [1](../USTC/2023MAA2mid1.pdf)、[3](../USTC/2023MAA2mid2.pdf)、[3](../USTC/2023MAA2mid3.pdf) | [统考](../USTC/2023MAA2final.pdf) | 邓建松、罗罗 |
-|2024| [1](../USTC/2024MAA2mid1.pdf)、[3](../USTC/2024MAA2mid2.pdf)、[3](../USTC/2024MAA2mid3.pdf) | [统考](../USTC/2024MAA2final.pdf) | 邓建松、罗罗 |
+|2022| [1](../USTC/2022MAA2mid1.pdf)、[2](../USTC/2022MAA2mid2.pdf)、[3](../USTC/2022MAA2mid3.pdf) | 暂缺 | 邓建松、罗罗 |
+|2023| [1](../USTC/2023MAA2mid1.pdf)、[2](../USTC/2023MAA2mid2.pdf)、[3](../USTC/2023MAA2mid3.pdf) | [统考](../USTC/2023MAA2final.pdf) | 邓建松、罗罗 |
+|2024| [1](../USTC/2024MAA2mid1.pdf)、[2](../USTC/2024MAA2mid2.pdf)、[3](../USTC/2024MAA2mid3.pdf) | [统考](../USTC/2024MAA2final.pdf) | 邓建松、罗罗 |
 |2025| 暂缺 | 暂缺 | 李平、罗罗 |
 
 ## 数学分析A3
