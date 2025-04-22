@@ -107,7 +107,7 @@ layout: single  # 单栏布局
 |2021| 暂缺 | 暂缺 | 陈卿、许斌 |
 |2022| [统考](../USTC/2022MAB3mid.pdf) | 暂缺 | 胡森、许斌 |
 |2023| [统考](../USTC/2023MAB3mid.pdf) | [期末](../USTC/2023MAB3final.pdf) | 陈卿、许斌 |
-|2024| [统考](../USTC/2024MAB3mid.pdf) | 暂缺 | 陈卿、许斌 |
+|2024| [统考](../USTC/2024MAB3mid.pdf) | [期末](../USTC/2024MAB3final.pdf) | 陈卿、许斌 |
 
 ## 线性代数A1
 
