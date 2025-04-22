@@ -37,7 +37,7 @@ layout: single  # 单栏布局
 |2011| 暂缺 | [期末](../USTC/2011complexfinal.pdf) | 任广斌、陈秀雄/李皓昭 |
 |2012| 暂缺 | 暂缺 | 李皓昭、李思敏（H） |
 |2013| 暂缺 | 暂缺 | 刘聪文、李皓昭、李思敏（H） |
-|2014| [期中](../USTC/2014complexmid.pdf) | 暂缺 | 李皓昭、宋百林、胡森（H） |
+|2014| [期中](../USTC/2014complexmid.pdf) | [期末](../USTC/2014complexfinal.pdf) | 李皓昭、宋百林、胡森（H） |
 |2015| 暂缺 | [罗罗](../USTC/2015complexHfinal.pdf) | 胡森、宋百林、罗罗（H） |
 |2016| [普班统考](../USTC/2016complexmidw.pdf)、[李思敏](../USTC/2016complexHmid.pdf) | [普班统考](../USTC/2016complexfinale.pdf)、[李思敏](../USTC/2016complexHfinal.pdf) | 李皓昭、许斌、李思敏（H） |
 |2017| 暂缺 | 暂缺 | 李皓昭、罗罗、殷浩（H） |
