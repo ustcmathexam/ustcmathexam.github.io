@@ -12,7 +12,7 @@ layout: single  # 单栏布局
 
 |年份|春季考试|授课教师|秋季考试|授课教师|
 |:----:|:------------:|:----------------:|:------------:|:----------------:|
-|2013| 无 | 无 | 暂缺 | 刘党政、冯群强（H） |
+|2013| 无 | 无 | [刘党政期末](../USTC/2013Fprobfinal.pdf) | 刘党政、冯群强（H） |
 |2014| 暂缺 | 刘党政 | 暂缺 | 刘党政（H班合并） |
 |2015| [期中](../USTC/2015Sprobmid.pdf)、[期末](../USTC/2015Sprobfinal.pdf) | 刘党政 | 暂缺 | 刘党政 |
 |2016| [期中](../USTC/2016Sprobmid.pdf)、[期末](../USTC/2016Sprobfinal.pdf) | 刘党政 | 暂缺 | 张娜 |
@@ -22,9 +22,9 @@ layout: single  # 单栏布局
 |2020| 暂缺 | 刘党政 | [期中](../USTC/2020Fprobmid.pdf)、[期末](../USTC/2020Fprobfinal.pdf) | 刘党政 |
 |2021| [期中](../USTC/2021Sprobmid.pdf)、[期末](../USTC/2021Sprobfinal.pdf) | 刘党政 | 暂缺 | 刘党政 |
 |2022| 暂缺 | 刘党政（H） | 暂缺 | 刘党政 |
-|2023| 暂缺 | 刘党政（H）、张娜 | [期末](../USTC/2023Fprobfinal.pdf) | 刘党政 |
+|2023| 暂缺 | 刘党政（H）、张娜 | [期中](../USTC/2023Fprobmid.pdf)、[期末](../USTC/2023Fprobfinal.pdf) | 刘党政 |
 |2024| [进阶](../USTC/2024SprobHfinal.pdf) | 刘党政（H）、尚世界 | [期中](../USTC/2024Fprobmid.pdf)、[期末](../USTC/2024Fprobfinal.pdf) | 刘党政 |
-|2025| 暂缺 | 刘党政（H）、尚世界 | ？ | ？|
+|2025| [刘党政期中](../USTC/2025Sprobmid.pdf) | 刘党政（H）、尚世界 | ？ | ？|
 
 
 ## 应用随机过程（数院）
@@ -41,10 +41,10 @@ layout: single  # 单栏布局
 |:----:|:------------:|:------------:|:------------:|
 |2011、12、14、16秋| [2011](../USTC/2011Fstochmid.pdf)| 暂缺 | 冯群强 |
 |2013、15、16、17-20秋| [2015](../USTC/2015Fstochmid.pdf)、[2019](../USTC/2019Fstoch.pdf)、[2020](../USTC/2020Fstochmid.pdf) | [2020](../USTC/2020Fstochfinal.pdf)  | 胡太忠 |
-|2021春| [期中](../USTC/2021Sstochmid.pdf) | 暂缺 | 胡太忠、冯群强 |
-|2022春| [期中](../USTC/2022Sstochmid.pdf) | 暂缺 | 胡治水、冯群强 |
-|2023春| 暂缺 | 暂缺 | 胡太忠 |
-|2024春| 暂缺 | 暂缺 | 胡太忠 |
+|2021春| [期中](../USTC/2021Sstochmid.pdf) | [期末](../USTC/2021SPfinal.pdf) | 胡太忠、冯群强 |
+|2022春| [期中](../USTC/2022Sstochmid.pdf) | [期末](../USTC/2022SPfinal.pdf) | 胡治水、冯群强 |
+|2023春| [期中](../USTC/2023SPmid.pdf) | [期末](../USTC/2023SPfinal.pdf) | 胡太忠 |
+|2024春| [期中](../USTC/2023SPmid.pdf) | [期末](../USTC/2024SPfinal.pdf) | 胡太忠 |
 |2025春| 暂缺 | 暂缺 | 冯群强 |
 
 ## 数理统计（数院）
