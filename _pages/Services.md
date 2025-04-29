@@ -91,7 +91,7 @@ layout: single  # 单栏布局
 |2022| [期中](../USTC/2022MAB2mid.pdf) | [期末](../USTC/2022MAB2final.pdf) | 
 |2023| [期中](../USTC/2023MAB2mid.pdf) | [期末](../USTC/2023MAB2final.pdf) | 
 |2024| [期中](../USTC/2024MAB2mid.pdf) | [期末](../USTC/2024MAB2final.pdf) | 
-
+|2025| [期中](../USTC/2025MAB2mid.pdf) | 暂缺 | 
 
 ## 数学分析B3
 
@@ -144,7 +144,7 @@ layout: single  # 单栏布局
 |2021| [期中](../USTC/2021LAA2mid.pdf) | [期末](../USTC/2021LAA2final.pdf) | 叶郁、王新茂 |
 |2022| 暂缺 | 暂缺 | 叶郁、王新茂 |
 |2023| [欧阳毅](../USTC/2023LAA2mid.pdf)、[王新茂](../USTC/2023LAA2mid2.pdf) | [AB题](../USTC/2023LAA2final.pdf) | 欧阳毅、王新茂 |
-|2024| [陈发来](../USTC/2024LAA2mid1.pdf)、[王新茂](../USTC/2024LAA2mid.pdf) | 暂缺 | 陈发来、王新茂 |
+|2024| [陈发来](../USTC/2024LAA2mid1.pdf)、[王新茂](../USTC/2024LAA2mid.pdf) | [期末](../USTC/2024LAA2final.pdf) | 陈发来、王新茂 |
 
 ## 线性代数B1
 
@@ -164,6 +164,6 @@ layout: single  # 单栏布局
 |:----:|:------------:|:------------:|:------------:|
 |2020| [统考](../USTC/2020LAB2mid.pdf) | 暂缺 | 陈小伍、陈洪佳 |
 |2021| [统考](../USTC/2021LAB2mid.pdf) | [期末](../USTC/2021LAB2final.pdf) | 陈发来、欧阳毅 |
-|2022| 暂缺 | 暂缺 | 陈发来、欧阳毅 |
+|2022| 暂缺 | [期末](../USTC/2022LAB2final.pdf) | 陈发来、欧阳毅 |
 |2023| [统考](../USTC/2023LAB2mid.pdf) | [期末](../USTC/2023LAB2final.pdf) | 陈发来、陈洪佳 |
-|2024| [统考](../USTC/2024LAB2mid.pdf) | 暂缺 | 陈洪佳、欧阳毅 |
+|2024| [统考](../USTC/2024LAB2mid.pdf) | [期末](../USTC/2024LAB2final.pdf) | 陈洪佳、欧阳毅 |
