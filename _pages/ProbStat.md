@@ -44,8 +44,8 @@ layout: single  # 单栏布局
 |2021春| [期中](../USTC/2021Sstochmid.pdf) | [期末](../USTC/2021SPfinal.pdf) | 胡太忠、冯群强 |
 |2022春| [期中](../USTC/2022Sstochmid.pdf) | [期末](../USTC/2022SPfinal.pdf) | 胡治水、冯群强 |
 |2023春| [期中](../USTC/2023SPmid.pdf) | [期末](../USTC/2023SPfinal.pdf) | 胡太忠 |
-|2024春| [期中](../USTC/2023SPmid.pdf) | [期末](../USTC/2024SPfinal.pdf) | 胡太忠 |
-|2025春| 暂缺 | 暂缺 | 冯群强 |
+|2024春| [期中](../USTC/2024SPmid.pdf) | [期末](../USTC/2024SPfinal.pdf) | 胡太忠 |
+|2025春| [期中](../USTC/2025SPmid.pdf) | 暂缺 | 冯群强 |
 
 ## 数理统计（数院）
 
@@ -110,13 +110,13 @@ layout: single  # 单栏布局
 |2022| [期中](../USTC/2022Stochmid.pdf) | 暂缺 | 张土生 |
 |2023| [期中](../USTC/2023Stochmid.pdf) | [期末](../USTC/2023Stochfinal.pdf) | 张土生 |
 |2024| 暂缺 | 暂缺 | 张土生/杨赛赛 |
-|2025| 暂缺 | 暂缺 | 张土生 |
+|2025| [期中](../USTC/2025Stochmid.pdf) | 暂缺 | 张土生 |
 
 ## 其它概率统计课程
 
 压缩包[下载](../USTC/statistics.zip)：包含多元统计分析A（14秋、15春、15秋、20春）、时间序列分析（16、19）、抽样调查（16、20）.
 
-极限理论（胡治水）：2023[期末](../USTC/2023problimitfinal.pdf)
+极限理论（胡治水）：2023[期末](../USTC/2023problimitfinal.pdf)、2025[期中](../USTC/2025LTmid.pdf).
 
 高等数理统计：[2023](../USTC/2023advstatfinal.pdf)（张洪）
 
