@@ -68,7 +68,7 @@ layout: single  # 单栏布局
 |2021| [普班统考](../USTC/2021FAmid.pdf) | [普班统考](../USTC/2021FAfinal.pdf)、[黄文](../USTC/2021FAHfinal.pdf) | 刘聪文、许小卫、黄文（H） |
 |2022| [普班统考](../USTC/2022FAmid.pdf) | [普班统考](../USTC/2022FAfinal.pdf)、[黄文](../USTC/2022FAHfinal.pdf) | 刘聪文、王兵、黄文（H） |
 |2023| [普班统考](../USTC/2023FAmid.pdf) | [黄文](../USTC/2023FAHfinal.pdf) | 刘聪文、王兵/许小卫/刘远、黄文（H） |
-|2024| [普班统考](../USTC/2024FAmid.pdf) | [普班统考](../USTC/2024FAfinal.pdf) | 刘聪文、陈杲/曲三太、黄文（H） |
+|2024| [普班统考](../USTC/2024FAmid.pdf) | [普班统考](../USTC/2024FAfinal.pdf)、[黄文](../USTC/2024FAHfinal.pdf) | 刘聪文、陈杲/曲三太、黄文（H） |
 
 ## 微分方程2（现代偏微分方程）
 
@@ -138,5 +138,7 @@ layout: single  # 单栏布局
 |2024| 暂缺 | 高静 |
 
 ## 其它
+
+常微分方程概论（管院）：[2023](../USTC/2023ODEintrofinal.pdf)、[2024](../USTC/2024ODEintrofinal.pdf).
 
 非线性椭圆方程：[2020秋](../USTC/2020Fnonlinearelliptic.pdf)（麻希南）
