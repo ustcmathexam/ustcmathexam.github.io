@@ -44,7 +44,7 @@ layout: single  # 单栏布局
 |2022| [1](../USTC/2022MAA2mid1.pdf)、[2](../USTC/2022MAA2mid2.pdf)、[3](../USTC/2022MAA2mid3.pdf) | 暂缺 | 邓建松、罗罗 |
 |2023| [1](../USTC/2023MAA2mid1.pdf)、[2](../USTC/2023MAA2mid2.pdf)、[3](../USTC/2023MAA2mid3.pdf) | [统考](../USTC/2023MAA2final.pdf) | 邓建松、罗罗 |
 |2024| [1](../USTC/2024MAA2mid1.pdf)、[2](../USTC/2024MAA2mid2.pdf)、[3](../USTC/2024MAA2mid3.pdf) | [统考](../USTC/2024MAA2final.pdf) | 邓建松、罗罗 |
-|2025| 暂缺 | 暂缺 | 李平、罗罗 |
+|2025| [期中](../USTC/2025MAA2mid.pdf) | 暂缺 | 李平、罗罗 |
 
 ## 数学分析A3
 
