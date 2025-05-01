@@ -37,7 +37,7 @@ layout: single  # 单栏布局
 |2021| [普班统考](../USTC/2021realmid.pdf)、[任广斌](../USTC/2021realHmid.pdf) | [普班统考](../USTC/2021realfinal.pdf)、[任广斌](../USTC/2021realHfinal.pdf) | 王兵、郭经纬、任广斌（H） |
 |2022| [普班统考](../USTC/2022realmid.pdf) | [普班统考](../USTC/2022realfinal.pdf) | 王兵/李宇、殷浩、任广斌（H） |
 |2023| [刘聪文](../USTC/2023realmidA.pdf)、[补测](../USTC/2023realmidB.pdf)、[任广斌](../USTC/2023realHmid.pdf) | [普班统考](../USTC/2023realfinal.pdf)、[任广斌](../USTC/2023realHfinal.pdf) | 刘聪文、李宇、任广斌（H） |
-|2024| [任广斌](../USTC/2024realHmid.pdf) | 暂缺 | 李皓昭、于树澄、任广斌（H） |
+|2024| [任广斌](../USTC/2024realHmid.pdf) | [普班统考](../USTC/2024realfinal.pdf) | 李皓昭、于树澄、任广斌（H） |
 |2025| [任广斌](../USTC/2025realHmid.pdf) | 暂缺 | 李皓昭、于树澄、任广斌（H） |
 
 ## 高等实分析
