@@ -41,7 +41,7 @@ layout: single  # 单栏布局
 |2022| 暂缺 | 暂缺 | 张磊、申伊塃、陈小伍（H） |
 |2023| [普班统考](../USTC/2023alg2mid.pdf)、[陈小伍](../USTC/2023alg2Hmid.pdf) | [普班统考](../USTC/2023alg2final.pdf)、[陈小伍](../USTC/2023alg2Hfinal.pdf) | 张磊、叶郁、陈小伍（H） |
 |2024| [刘永强](../USTC/2024alg2mid1.pdf)、[叶郁](../USTC/2024alg2mid2.pdf) | [陈小伍](../USTC/2024alg2Hfinal.pdf) | 刘永强、叶郁、陈小伍（H） |
-|2025| [刘永强](../USTC/2025alg2mid1.pdf) | 暂缺 | 刘永强、叶郁、陈小伍（H） |
+|2025| [刘永强](../USTC/2025alg2mid1.pdf)、[叶郁](../USTC/2025alg2mid2.pdf) | 暂缺 | 刘永强、叶郁、陈小伍（H） |
 
 ## 代数学
 
