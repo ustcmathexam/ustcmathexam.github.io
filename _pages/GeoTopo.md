@@ -28,7 +28,7 @@ layout: single  # 单栏布局
 |2021| [张希](../USTC/2020DGHmid.pdf) | [张希](../USTC/2021DGHfinal.pdf) | 韦勇、杨迪、张希（H） |
 |2022| 暂缺 | 暂缺 | 张永兵、杨迪、刘世平（H） |
 |2023| [许小卫](../USTC/2023DGmid2.pdf)、[张永兵](../USTC/2023DGmid.pdf) | [普班统考](../USTC/2023DGfinal.pdf)、[刘世平](../USTC/2023DGHfinal.pdf) | 许小卫、张永兵、刘世平（H） |
-|2024| 暂缺 | [刘世平](../USTC/2024DGHfinal.pdf) | 许小卫、张永兵、刘世平（H） |
+|2024| [刘世平](../USTC/2024DGHmid.pdf) | [刘世平](../USTC/2024DGHfinal.pdf) | 许小卫、张永兵、刘世平（H） |
 
 ## 复分析
 
@@ -114,7 +114,7 @@ layout: single  # 单栏布局
 |2022| [期末](../USTC/2022RGfinal.pdf) | 刘世平 |
 |2023| [期中](../USTC/2023RGmid.pdf)、[期末](../USTC/2023RGfinal.pdf) | 刘世平 |
 |2024| [期末](../USTC/2024RGfinal.pdf) | 王作勤 |
-|2025| 暂缺 | 李宇 |
+|2025| [期中](../USTC/2025RGmid.pdf) | 李宇 |
 
 ## 黎曼曲面
 
