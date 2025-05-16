@@ -48,7 +48,7 @@ layout: single  # 单栏布局
 |2022| [普班统考](../USTC/2022complexmid.pdf) | [普班统考](../USTC/2022complexfinal.pdf) | 李思敏、刘聪文、李皓昭（H） |
 |2023| [李思敏](../USTC/2023complexmid.pdf) | [普班统考](../USTC/2023complexfinal.pdf) | 李思敏、杨迪、李皓昭（H） |
 |2024| [普班统考](../USTC/2024complexmid.pdf)、[王兵](../USTC/2024complexHmid.pdf) | [普班统考](../USTC/2024complexfinal.pdf)、[王兵](../USTC/2024complexHfinal.pdf) | 李思敏、刘聪文、王兵（H） |
-|2025| [王兵](../USTC/2025complexHmid.pdf) | 暂缺 | 李思敏、杨迪、王兵（H） |
+|2025| [普班统考](../USTC/2025complexmid.pdf)、[王兵](../USTC/2025complexHmid.pdf) | 暂缺 | 李思敏、杨迪、王兵（H） |
 
 ## 拓扑学
 
