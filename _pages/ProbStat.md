@@ -122,6 +122,8 @@ layout: single  # 单栏布局
 
 非参数统计：[2023](../USTC/2023nonparastatfinal.pdf)（刘行、郭潇、陈刘军）
 
+贝叶斯分析：[2023](../USTC/2023Bayes.pdf) （张伟平）
+
 大样本理论：[2024](../USTC/2024largsample.pdf)（王占锋）
 
 属性数据分析：[2021-2024](../USTC/2021-2024CDAfinal.pdf)合集（2021-2024 张洪、2022 金百锁）
