@@ -126,7 +126,7 @@ layout: single  # 单栏布局
 |2022| 暂缺 | 暂缺 | 叶郁、王新茂 |
 |2023| [欧阳毅](../USTC/2023LAA1mid.pdf) | [AB题](../USTC/2023LAA1final.pdf) | 欧阳毅、王新茂 |
 |2024| [陈发来](../USTC/2024LAA1mid.pdf) | [陈发来](../USTC/2024LAA1final1.pdf)、[王新茂](../USTC/2024LAA1final.pdf) | 陈发来、王新茂 |
-|2025| 暂缺 | 暂缺 | 欧阳毅、王新茂 |
+|2025| [王新茂](../USTC/2025LAA1mid1.pdf) | 暂缺 | 欧阳毅、王新茂 |
 
 ## 线性代数A2
 
@@ -155,6 +155,7 @@ layout: single  # 单栏布局
 |2019秋| 暂缺 | [期末](../USTC/2019FLAB1final.pdf) | 
 |2020秋| 暂缺 | [期末](../USTC/2020FLAB1final.pdf) |
 |2024春| 暂缺 | [期末](../USTC/2024SLAB1final.pdf) | 
+|2025春| [期中](../USTC/2025SLAB1mid.pdf) | - | 
 
 ## 线性代数B2
 
