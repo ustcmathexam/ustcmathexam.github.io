@@ -24,7 +24,7 @@ layout: single  # 单栏布局
 |2022| 暂缺 | 刘党政（H） | 暂缺 | 刘党政 |
 |2023| 暂缺 | 刘党政（H）、张娜 | [期中](../USTC/2023Fprobmid.pdf)、[期末](../USTC/2023Fprobfinal.pdf) | 刘党政 |
 |2024| [进阶](../USTC/2024SprobHfinal.pdf) | 刘党政（H）、尚世界 | [期中](../USTC/2024Fprobmid.pdf)、[期末](../USTC/2024Fprobfinal.pdf) | 刘党政 |
-|2025| [刘党政期中](../USTC/2025Sprobmid.pdf) | 刘党政（H）、尚世界 | ？ | ？|
+|2025| [刘党政期中](../USTC/2025Sprobmid.pdf) 、[期末](../USTC/2025Sprobfinal.pdf)| 刘党政（H）、尚世界 | ？ | ？|
 
 
 ## 应用随机过程（数院）
