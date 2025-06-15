@@ -110,13 +110,13 @@ layout: single  # 单栏布局
 |2022| [期中](../USTC/2022Stochmid.pdf) | 暂缺 | 张土生 |
 |2023| [期中](../USTC/2023Stochmid.pdf) | [期末](../USTC/2023Stochfinal.pdf) | 张土生 |
 |2024| 暂缺 | 暂缺 | 张土生/杨赛赛 |
-|2025| [期中](../USTC/2025Stochmid.pdf) | 暂缺 | 张土生 |
+|2025| [期中](../USTC/2025Stochmid.pdf) | [期末](../USTC/2025Stochfinal.pdf) | 张土生 |
 
 ## 其它概率统计课程
 
 压缩包[下载](../USTC/statistics.zip)：包含多元统计分析A（14秋、15春、15秋、20春）、时间序列分析（16、19）、抽样调查（16、20）.
 
-极限理论（胡治水）：2023[期末](../USTC/2023problimitfinal.pdf)、2025[期中](../USTC/2025LTmid.pdf).
+极限理论（胡治水）：2023[期末](../USTC/2023problimitfinal.pdf)，2025[期中](../USTC/2025LTmid.pdf)、[期末](../USTC/2025problimitfinal.pdf).
 
 高等数理统计：[2023](../USTC/2023advstatfinal.pdf)（张洪）
 
