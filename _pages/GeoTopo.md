@@ -114,7 +114,7 @@ layout: single  # 单栏布局
 |2022| [期末](../USTC/2022RGfinal.pdf) | 刘世平 |
 |2023| [期中](../USTC/2023RGmid.pdf)、[期末](../USTC/2023RGfinal.pdf) | 刘世平 |
 |2024| [期末](../USTC/2024RGfinal.pdf) | 王作勤 |
-|2025| [期中](../USTC/2025RGmid.pdf) | 李宇 |
+|2025| [期中](../USTC/2025RGmid.pdf)、[期末](../USTC/2025RGfinal.pdf) | 李宇 |
 
 ## 黎曼曲面
 
