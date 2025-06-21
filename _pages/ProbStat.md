@@ -45,7 +45,7 @@ layout: single  # 单栏布局
 |2022春| [期中](../USTC/2022Sstochmid.pdf) | [期末](../USTC/2022SPfinal.pdf) | 胡治水、冯群强 |
 |2023春| [期中](../USTC/2023SPmid.pdf) | [期末](../USTC/2023SPfinal.pdf) | 胡太忠 |
 |2024春| [期中](../USTC/2024SPmid.pdf) | [期末](../USTC/2024SPfinal.pdf) | 胡太忠 |
-|2025春| [期中](../USTC/2025SPmid.pdf) | 暂缺 | 冯群强 |
+|2025春| [期中](../USTC/2025SPmid.pdf) | [期末](../USTC/2025SPfinal.pdf) | 冯群强 |
 
 ## 数理统计（数院）
 
