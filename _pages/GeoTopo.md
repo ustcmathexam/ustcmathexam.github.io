@@ -28,7 +28,7 @@ layout: single  # 单栏布局
 |2021| [张希](../USTC/2020DGHmid.pdf) | [张希](../USTC/2021DGHfinal.pdf) | 韦勇、杨迪、张希（H） |
 |2022| 暂缺 | 暂缺 | 张永兵、杨迪、刘世平（H） |
 |2023| [许小卫](../USTC/2023DGmid2.pdf)、[张永兵](../USTC/2023DGmid.pdf) | [普班统考](../USTC/2023DGfinal.pdf)、[刘世平](../USTC/2023DGHfinal.pdf) | 许小卫、张永兵、刘世平（H） |
-|2024| [刘世平](../USTC/2024DGHmid.pdf) | [刘世平](../USTC/2024DGHfinal.pdf) | 许小卫、张永兵、刘世平（H） |
+|2024| [刘世平](../USTC/2024DGHmid.pdf) | [普班统考](../USTC/2024DGfinal.pdf)、[刘世平](../USTC/2024DGHfinal.pdf) | 许小卫、张永兵、刘世平（H） |
 
 ## 复分析
 
@@ -48,7 +48,7 @@ layout: single  # 单栏布局
 |2022| [普班统考](../USTC/2022complexmid.pdf) | [普班统考](../USTC/2022complexfinal.pdf) | 李思敏、刘聪文、李皓昭（H） |
 |2023| [李思敏](../USTC/2023complexmid.pdf) | [普班统考](../USTC/2023complexfinal.pdf) | 李思敏、杨迪、李皓昭（H） |
 |2024| [普班统考](../USTC/2024complexmid.pdf)、[王兵](../USTC/2024complexHmid.pdf) | [普班统考](../USTC/2024complexfinal.pdf)、[王兵](../USTC/2024complexHfinal.pdf) | 李思敏、刘聪文、王兵（H） |
-|2025| [普班统考](../USTC/2025complexmid.pdf)、[王兵](../USTC/2025complexHmid.pdf) | [普班统考](../USTC/2025complexfinal.pdf) | 李思敏、杨迪、王兵（H） |
+|2025| [普班统考](../USTC/2025complexmid.pdf)、[王兵](../USTC/2025complexHmid.pdf) | [普班统考](../USTC/2025complexfinal.pdf)、[王兵](../USTC/2025complexHfinal.pdf) | 李思敏、杨迪、王兵（H） |
 
 ## 拓扑学
 
