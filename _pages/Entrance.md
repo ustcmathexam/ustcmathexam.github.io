@@ -48,7 +48,7 @@ layout: single  # 单栏布局
 |2017| [代数](../USTC/2017Salgqual.pdf) | 暂缺 |
 |2020| [分析](../USTC/2020Sanalqual.pdf)、[代数](../USTC/2020Salgqual.pdf)、[几何](../USTC/2020Sgeoqual.pdf) | 暂缺 |
 |2022| 暂缺 | [代数](../USTC/2022Falgqual.pdf) |
-|2023| [代数](../USTC/2023Salgqual.pdf) | [代数](../USTC/2023Falgqual.pdf)、[几何](../USTC/2023Sgeoqual.pdf) |
+|2023| [代数](../USTC/2023Salgqual.pdf) | [代数](../USTC/2023Falgqual.pdf)、[几何](../USTC/2023Fgeoqual.pdf) |
 |2024| 暂缺 | [分析](../USTC/2024Fanalqual.pdf)、[几何](../USTC/2024Fgeoqual.pdf) |
 |2025| [分析](../USTC/2025Sanalqual.pdf) | - |
 
