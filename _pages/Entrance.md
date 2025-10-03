@@ -16,7 +16,8 @@ layout: single  # 单栏布局
 |2021| [试题+答案](../USTC/2021USTCMATHentrance.pdf) | - |
 |2022| [试题](../USTC/2022USTCMATHentrance.pdf) | 暂缺 |
 |2023| [试题+答案](../USTC/2023USTCMATHentrance.pdf) | - |
-|2023| [试题+答案](../USTC/2024USTCMATHentrance.pdf) | - |
+|2024| [试题+答案](../USTC/2024USTCMATHentrance.pdf) | - |
+|2025| [试题+答案](../USTC/2025USTCMATHentrance.pdf) | - |
 
 ## 中国科大自主招生/少创班/强基考试等
 
