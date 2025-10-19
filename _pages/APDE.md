@@ -23,6 +23,7 @@ layout: single  # 单栏布局
 |2022| 暂缺 | [赵立丰](../USTC/2022PDE1finalB.pdf)、[宁吴庆](../USTC/2022PDE1finalA.pdf) | 赵立丰、宁吴庆 |
 |2023| [赵立丰](../USTC/2023ODEmid.pdf) | 暂缺 | 赵立丰、宁吴庆 |
 |2024| 赵立丰[试题](../USTC/2024ODEmid.pdf)、[答案](../USTC/2024ODEmid1.pdf) | [赵立丰](../USTC/2024PDE1finalB.pdf)、[宁吴庆](../USTC/2024PDE1finalA.pdf) | 赵立丰、宁吴庆 |
+|2025| [期中统考](../USTC/2025ODEmid.pdf) | - | 赵立丰（ODE+PDE）、宁吴庆（ODE）、章俊彦（PDE） |
 
 ## 实分析
 
