@@ -25,6 +25,7 @@ layout: single  # 单栏布局
 |2022| [统考](../USTC/2022MAA1mid.pdf) | [统考](../USTC/2022MAA1final.pdf) | 任广斌、罗罗 |
 |2023| [统考](../USTC/2023MAA1mid.pdf) | [统考](../USTC/2023MAA1final.pdf) | 任广斌、罗罗 |
 |2024| [统考](../USTC/2024MAA1mid.pdf) | [统考](../USTC/2024MAA1final.pdf) | 任广斌、罗罗 |
+|2025| - | - | 任广斌、罗罗 |
 
 ## 数学分析A2
 
@@ -64,6 +65,7 @@ layout: single  # 单栏布局
 |2022| [统考](../USTC/2022MAA3mid.pdf) (修正了一个打字错误) | 暂缺 | 左达峰、李思敏 |
 |2023| [统考](../USTC/2023MAA3mid.pdf) | [统考](../USTC/2023MAA3final.pdf) | 左达峰、李思敏 |
 |2024| [统考](../USTC/2024MAA3mid.pdf) | [统考](../USTC/2024MAA3final.pdf) | 左达峰、李思敏 |
+|2025| - | - | 左达峰、李思敏 |
 
 
 ## 数学分析B1
@@ -76,6 +78,7 @@ layout: single  # 单栏布局
 |2017-2022| - | [17期末](../USTC/2017MAB1final.pdf)、 [17-22压缩包](../USTC/MAB1exams.zip) | 
 |2023| [期中](../USTC/2023MAB1mid.pdf) | [期末](../USTC/2023MAB1final.pdf) | 
 |2024| [期中](../USTC/2024MAB1mid.pdf) | [期末](../USTC/2024MAB1final.pdf) | 
+|2025| - | - | 
 
 
 ## 数学分析B2
@@ -108,6 +111,8 @@ layout: single  # 单栏布局
 |2022| [统考](../USTC/2022MAB3mid.pdf) | 暂缺 | 胡森、许斌 |
 |2023| [统考](../USTC/2023MAB3mid.pdf) | [期末](../USTC/2023MAB3final.pdf) | 陈卿、许斌 |
 |2024| [统考](../USTC/2024MAB3mid.pdf) | [期末](../USTC/2024MAB3final.pdf) | 陈卿、许斌 |
+|2025| - | - | 陈卿、许斌 |
+
 
 ## 线性代数A1
 
@@ -145,6 +150,8 @@ layout: single  # 单栏布局
 |2022| 暂缺 | 暂缺 | 叶郁、王新茂 |
 |2023| [欧阳毅](../USTC/2023LAA2mid.pdf)、[王新茂](../USTC/2023LAA2mid2.pdf) | [AB题](../USTC/2023LAA2final.pdf) | 欧阳毅、王新茂 |
 |2024| [陈发来](../USTC/2024LAA2mid1.pdf)、[王新茂](../USTC/2024LAA2mid.pdf) | [期末](../USTC/2024LAA2final.pdf) | 陈发来、王新茂 |
+|2025| - | - | 欧阳毅、王新茂 |
+
 
 ## 线性代数B1
 
@@ -169,3 +176,4 @@ layout: single  # 单栏布局
 |2022| 暂缺 | [期末](../USTC/2022LAB2final.pdf) | 陈发来、欧阳毅 |
 |2023| [统考](../USTC/2023LAB2mid.pdf) | [期末](../USTC/2023LAB2final.pdf) | 陈发来、陈洪佳 |
 |2024| [统考](../USTC/2024LAB2mid.pdf) | [期末](../USTC/2024LAB2final.pdf) | 陈洪佳、欧阳毅 |
+|2024| - | - | 陈洪佳、乐珏 |
