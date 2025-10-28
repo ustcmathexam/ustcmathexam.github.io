@@ -55,6 +55,7 @@ layout: single  # 单栏布局
 |2022| 暂缺 | 暂缺 | 韩邦先 |
 |2023| [期中](../USTC/2023advrealmid.pdf) | 暂缺 | 李俊钢 |
 |2024| 无 | [期末](../USTC/2024advrealfinal.pdf) | 沈舜麟 |
+|2025| - | - | 许小卫 |
 
 ## 泛函分析
 
@@ -70,6 +71,7 @@ layout: single  # 单栏布局
 |2022| [普班统考](../USTC/2022FAmid.pdf) | [普班统考](../USTC/2022FAfinal.pdf)、[黄文](../USTC/2022FAHfinal.pdf) | 刘聪文、王兵、黄文（H） |
 |2023| [普班统考](../USTC/2023FAmid.pdf) | [黄文](../USTC/2023FAHfinal.pdf) | 刘聪文、王兵/许小卫/刘远、黄文（H） |
 |2024| [普班统考](../USTC/2024FAmid.pdf) | [普班统考](../USTC/2024FAfinal.pdf)、[黄文](../USTC/2024FAHfinal.pdf) | 刘聪文、陈杲/曲三太、黄文（H） |
+|2025| [刘聪文](../USTC/2025FAmid1.pdf) | - | 刘聪文、廖羽晨、黄文（H） |
 
 ## 微分方程2/现代偏微分方程
 
