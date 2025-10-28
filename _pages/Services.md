@@ -176,4 +176,4 @@ layout: single  # 单栏布局
 |2022| 暂缺 | [期末](../USTC/2022LAB2final.pdf) | 陈发来、欧阳毅 |
 |2023| [统考](../USTC/2023LAB2mid.pdf) | [期末](../USTC/2023LAB2final.pdf) | 陈发来、陈洪佳 |
 |2024| [统考](../USTC/2024LAB2mid.pdf) | [期末](../USTC/2024LAB2final.pdf) | 陈洪佳、欧阳毅 |
-|2024| - | - | 陈洪佳、乐珏 |
+|2025| - | - | 陈洪佳、乐珏 |
