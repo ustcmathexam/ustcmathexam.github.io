@@ -149,7 +149,7 @@ layout: single  # 单栏布局
 |2021| [期中](../USTC/2021LAA2mid.pdf) | [期末](../USTC/2021LAA2final.pdf) | 叶郁、王新茂 |
 |2022| 暂缺 | 暂缺 | 叶郁、王新茂 |
 |2023| [欧阳毅](../USTC/2023LAA2mid.pdf)、[王新茂](../USTC/2023LAA2mid2.pdf) | [AB题](../USTC/2023LAA2final.pdf) | 欧阳毅、王新茂 |
-|2024| [陈发来](../USTC/2024LAA2mid1.pdf)、[王新茂](../USTC/2024LAA2mid.pdf) | [期末](../USTC/2024LAA2final.pdf) | 陈发来、王新茂 |
+|2024| [陈发来](../USTC/2024LAA2mid1.pdf)、[王新茂](../USTC/2024LAA2mid2.pdf) | [期末](../USTC/2024LAA2final.pdf) | 陈发来、王新茂 |
 |2025| - | - | 欧阳毅、王新茂 |
 
 
