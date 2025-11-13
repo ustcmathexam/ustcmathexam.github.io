@@ -65,7 +65,7 @@ layout: single  # 单栏布局
 |2022| [统考](../USTC/2022MAA3mid.pdf) (修正了一个打字错误) | 暂缺 | 左达峰、李思敏 |
 |2023| [统考](../USTC/2023MAA3mid.pdf) | [统考](../USTC/2023MAA3final.pdf) | 左达峰、李思敏 |
 |2024| [统考](../USTC/2024MAA3mid.pdf) | [统考](../USTC/2024MAA3final.pdf) | 左达峰、李思敏 |
-|2025| - | - | 左达峰、李思敏 |
+|2025| [统考](../USTC/2025MAA3mid.pdf) | - | 左达峰、李思敏 |
 
 
 ## 数学分析B1
@@ -150,7 +150,7 @@ layout: single  # 单栏布局
 |2022| 暂缺 | 暂缺 | 叶郁、王新茂 |
 |2023| [欧阳毅](../USTC/2023LAA2mid.pdf)、[王新茂](../USTC/2023LAA2mid2.pdf) | [AB题](../USTC/2023LAA2final.pdf) | 欧阳毅、王新茂 |
 |2024| [陈发来](../USTC/2024LAA2mid1.pdf)、[王新茂](../USTC/2024LAA2mid2.pdf) | [期末](../USTC/2024LAA2final.pdf) | 陈发来、王新茂 |
-|2025| - | - | 欧阳毅、王新茂 |
+|2025| [王新茂](../USTC/2025LAA2mid1.pdf) | - | 欧阳毅、王新茂 |
 
 
 ## 线性代数B1
