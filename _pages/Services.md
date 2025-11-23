@@ -25,7 +25,7 @@ layout: single  # 单栏布局
 |2022| [统考](../USTC/2022MAA1mid.pdf) | [统考](../USTC/2022MAA1final.pdf) | 任广斌、罗罗 |
 |2023| [统考](../USTC/2023MAA1mid.pdf) | [统考](../USTC/2023MAA1final.pdf) | 任广斌、罗罗 |
 |2024| [统考](../USTC/2024MAA1mid.pdf) | [统考](../USTC/2024MAA1final.pdf) | 任广斌、罗罗 |
-|2025| - | - | 任广斌、罗罗 |
+|2025| [统考](../USTC/2025MAA1mid.pdf) | - | 任广斌、罗罗 |
 
 ## 数学分析A2
 
@@ -155,11 +155,10 @@ layout: single  # 单栏布局
 
 ## 线性代数B1
 
-本课程为非数学专业的必修课。
+本课程为非数学专业的必修课。一些往年题合集：[合集1](../USTC/LAB1exams.pdf)、[合集2](../USTC/LAB1exams2.pdf)、[合集3](../USTC/LAB1examsol.pdf)。
 
 |学期|期中考试|期末考试|
 |:----:|:------------:|:------------:|
-|早年合集| - | [下载链接](../USTC/LAB1exams.pdf) | 
 |2019秋| 暂缺 | [期末](../USTC/2019FLAB1final.pdf) | 
 |2020秋| 暂缺 | [期末](../USTC/2020FLAB1final.pdf) |
 |2024春| 暂缺 | [期末](../USTC/2024SLAB1final.pdf) | 
