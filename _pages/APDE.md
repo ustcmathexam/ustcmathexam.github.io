@@ -41,22 +41,6 @@ layout: single  # 单栏布局
 |2024| [任广斌](../USTC/2024realHmid.pdf) | [普班统考](../USTC/2024realfinal.pdf) | 李皓昭、于树澄、任广斌（H） |
 |2025| [普班统考](../USTC/2025realmid.pdf)、[任广斌](../USTC/2025realHmid.pdf) | [普班统考](../USTC/2025realfinal.pdf)、[任广斌](../USTC/2025realHfinal.pdf) | 李皓昭、于树澄、任广斌（H） |
 
-## 高等实分析
-
-|年份|期中考试|期末考试|授课教师|
-|:----:|:------------:|:------------:|:------------:|
-|2015| 无 | [期末](../USTC/2015advrealfinal.pdf) | 赵立丰 |
-|2016| 无 | 暂缺 | 殷浩 |
-|2017| 无 | 暂缺 | 殷浩 |
-|2018| [期中](../USTC/2018advrealmid.pdf) | [期末](../USTC/2018advrealfinal.pdf) | 张安 |
-|2019| [期中](../USTC/2019advrealmid.pdf) | [期末](../USTC/2019advrealfinal.pdf) | 赵立丰|
-|2020| 无 | [期末](../USTC/2020advrealfinal.pdf) | 夏波 |
-|2021| 暂缺 | 暂缺 | 王谢平 |
-|2022| 暂缺 | 暂缺 | 韩邦先 |
-|2023| [期中](../USTC/2023advrealmid.pdf) | 暂缺 | 李俊钢 |
-|2024| 无 | [期末](../USTC/2024advrealfinal.pdf) | 沈舜麟 |
-|2025| - | - | 许小卫 |
-
 ## 泛函分析
 
 |年份|期中考试|期末考试|授课教师|
@@ -90,6 +74,24 @@ layout: single  # 单栏布局
 |2023| [1](../USTC/2023PDE2mid1.pdf)、[2](../USTC/2023PDE2mid2.pdf) | [期末](../USTC/2023PDE2final.pdf) | 麻希南 |
 |2024| [1](../USTC/2024PDE2mid1.pdf)、[2](../USTC/2024PDE2mid2.pdf) | [期末](../USTC/2024PDE2final.pdf) | 麻希南 |
 |2025| [1](../USTC/2025PDE2mid1.pdf)、[2](../USTC/2025PDE2mid2.pdf) | 暂缺 | 麻希南 |
+
+
+## 高等实分析
+
+|年份|期中考试|期末考试|授课教师|
+|:----:|:------------:|:------------:|:------------:|
+|2015| 无 | [期末](../USTC/2015advrealfinal.pdf) | 赵立丰 |
+|2016| 无 | 暂缺 | 殷浩 |
+|2017| 无 | 暂缺 | 殷浩 |
+|2018| [期中](../USTC/2018advrealmid.pdf) | [期末](../USTC/2018advrealfinal.pdf) | 张安 |
+|2019| [期中](../USTC/2019advrealmid.pdf) | [期末](../USTC/2019advrealfinal.pdf) | 赵立丰 |
+|2020| 无 | [期末](../USTC/2020advrealfinal.pdf) | 夏波 |
+|2021| 暂缺 | 暂缺 | 王谢平 |
+|2022| 暂缺 | 暂缺 | 韩邦先 |
+|2023| [期中](../USTC/2023advrealmid.pdf) | 暂缺 | 李俊钢 |
+|2024| 无 | [期末](../USTC/2024advrealfinal.pdf) | 沈舜麟 |
+|2025| [期中](../USTC/2025advrealmid.pdf) | - | 许小卫 |
+
 
 ## 调和分析
 
