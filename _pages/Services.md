@@ -78,7 +78,7 @@ layout: single  # 单栏布局
 |2017-2022| - | [17期末](../USTC/2017MAB1final.pdf)、 [17-22压缩包](../USTC/MAB1exams.zip) | 
 |2023| [期中](../USTC/2023MAB1mid.pdf) | [期末](../USTC/2023MAB1final.pdf) | 
 |2024| [期中](../USTC/2024MAB1mid.pdf) | [期末](../USTC/2024MAB1final.pdf) | 
-|2025| - | - | 
+|2025| [期中](../USTC/2025MAB1mid.pdf) | - | 
 
 
 ## 数学分析B2
@@ -171,8 +171,8 @@ layout: single  # 单栏布局
 |年份|期中考试|期末考试|授课教师|
 |:----:|:------------:|:------------:|:------------:|
 |2020| [统考](../USTC/2020LAB2mid.pdf) | 暂缺 | 陈小伍、陈洪佳 |
-|2021| [统考](../USTC/2021LAB2mid.pdf) | [期末](../USTC/2021LAB2final.pdf) | 陈发来、欧阳毅 |
-|2022| 暂缺 | [期末](../USTC/2022LAB2final.pdf) | 陈发来、欧阳毅 |
-|2023| [统考](../USTC/2023LAB2mid.pdf) | [期末](../USTC/2023LAB2final.pdf) | 陈发来、陈洪佳 |
-|2024| [统考](../USTC/2024LAB2mid.pdf) | [期末](../USTC/2024LAB2final.pdf) | 陈洪佳、欧阳毅 |
-|2025| - | - | 陈洪佳、乐珏 |
+|2021| [统考](../USTC/2021LAB2mid.pdf) | [统考](../USTC/2021LAB2final.pdf) | 陈发来、欧阳毅 |
+|2022| 暂缺 | [统考](../USTC/2022LAB2final.pdf) | 陈发来、欧阳毅 |
+|2023| [统考](../USTC/2023LAB2mid.pdf) | [统考](../USTC/2023LAB2final.pdf) | 陈发来、陈洪佳 |
+|2024| [统考](../USTC/2024LAB2mid.pdf) | [统考](../USTC/2024LAB2final.pdf) | 陈洪佳、欧阳毅 |
+|2025| [统考](../USTC/2025LAB2mid.pdf) | - | 陈洪佳、乐珏 |
