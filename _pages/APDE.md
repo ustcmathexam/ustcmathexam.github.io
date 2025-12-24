@@ -18,7 +18,7 @@ layout: single  # 单栏布局
 |2017| [梁兴(期中+期末)](../USTC/2017PDE1.pdf) | - | 梁兴、宁吴庆 |
 |2018| 暂缺 | 暂缺 | 陈世炳、宁吴庆 |
 |2019| [张永兵](../USTC/2019ODEfinal.pdf) | [张永兵](../2019ODEfinalsol.pdf) | 张永兵、宁吴庆 |
-|2020| [赵立丰](../2020ODEmid.pdf) | [赵立丰](../USTC/2020PDE1final.pdf) | 赵立丰、宁吴庆 |
+|2020| [赵立丰](../USTC/2020ODEmid.pdf) | [赵立丰](../USTC/2020PDE1final.pdf) | 赵立丰、宁吴庆 |
 |2021| 暂缺 | 暂缺 | 赵立丰、宁吴庆 |
 |2022| 暂缺 | [赵立丰](../USTC/2022PDE1finalB.pdf)、[宁吴庆](../USTC/2022PDE1finalA.pdf) | 赵立丰、宁吴庆 |
 |2023| [赵立丰](../USTC/2023ODEmid.pdf) | 暂缺 | 赵立丰、宁吴庆 |
