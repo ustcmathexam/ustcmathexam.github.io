@@ -29,6 +29,7 @@ layout: single  # 单栏布局
 |2022| 暂缺 | 暂缺 | 张永兵、杨迪、刘世平（H） |
 |2023| [许小卫](../USTC/2023DGmid2.pdf)、[张永兵](../USTC/2023DGmid.pdf) | [普班统考](../USTC/2023DGfinal.pdf)、[刘世平](../USTC/2023DGHfinal.pdf) | 许小卫、张永兵、刘世平（H） |
 |2024| [刘世平](../USTC/2024DGHmid.pdf) | [普班统考](../USTC/2024DGfinal.pdf)、[刘世平](../USTC/2024DGHfinal.pdf) | 许小卫、张永兵、刘世平（H） |
+|2025| [韦勇](../USTC/2025DGmidA.pdf) | - | 韦勇、夏铭辰、刘世平（H） |
 
 ## 复分析
 
