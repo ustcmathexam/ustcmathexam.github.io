@@ -4,7 +4,7 @@ permalink: /Services/
 layout: single  # 单栏布局
 ---
 
-本页面记录全校通修课程的往年考题。
+本页面记录全校通修课程的往年考题。包括数学分析A/B、线性代数A/B、非数学专业的复变函数A/B和概率论与数理统计A/B（现在的概率论与数理统计即为以前的概率论与数理统计B）.
 
 ## 数学分析A1
 
@@ -163,6 +163,7 @@ layout: single  # 单栏布局
 |2020秋| 暂缺 | [期末](../USTC/2020FLAB1final.pdf) |
 |2024春| 暂缺 | [期末](../USTC/2024SLAB1final.pdf) | 
 |2025春| [期中](../USTC/2025SLAB1mid.pdf) | - | 
+|2025秋| [期中](../USTC/2025FLAB1mid.pdf) | - | 
 
 ## 线性代数B2
 
@@ -176,3 +177,22 @@ layout: single  # 单栏布局
 |2023| [统考](../USTC/2023LAB2mid.pdf) | [统考](../USTC/2023LAB2final.pdf) | 陈发来、陈洪佳 |
 |2024| [统考](../USTC/2024LAB2mid.pdf) | [统考](../USTC/2024LAB2final.pdf) | 陈洪佳、欧阳毅 |
 |2025| [统考](../USTC/2025LAB2mid.pdf) | - | 陈洪佳、乐珏 |
+
+## 概率论与数理统计B
+
+本课程为非数学专业的必修课，原概率论与数理统计A（管院金融系必修）与B课合并为现在的“概率论与数理统计”。
+
+|学期|期末考试|
+|:----:|:------------:|
+|2003-2022| [合集](../USTC/probstatexams.pdf) | 
+|2023| [期末](../USTC/2023probstatfinal.pdf) |
+|2024| [期末](../USTC/2024probstatfinal.pdf) | 
+|2025| [期末](../USTC/2025probstatfinal.pdf) |
+
+
+## 复变函数A、B
+
+本课程为非数学专业的复变函数课程。往年题合集：[复变函数合集](../USTC/complexexams.pdf)
+
+
+
