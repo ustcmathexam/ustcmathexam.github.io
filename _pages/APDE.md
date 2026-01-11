@@ -40,6 +40,7 @@ layout: single  # 单栏布局
 |2023| [刘聪文](../USTC/2023realmidA.pdf)、[补测](../USTC/2023realmidB.pdf)、[任广斌](../USTC/2023realHmid.pdf) | [普班统考](../USTC/2023realfinal.pdf)、[任广斌](../USTC/2023realHfinal.pdf) | 刘聪文、李宇、任广斌（H） |
 |2024| [任广斌](../USTC/2024realHmid.pdf) | [普班统考](../USTC/2024realfinal.pdf) | 李皓昭、于树澄、任广斌（H） |
 |2025| [普班统考](../USTC/2025realmid.pdf)、[任广斌](../USTC/2025realHmid.pdf) | [普班统考](../USTC/2025realfinal.pdf)、[任广斌](../USTC/2025realHfinal.pdf) | 李皓昭、于树澄、任广斌（H） |
+|2026| - | - | 李皓昭、刘聪文、任广斌（H） |
 
 ## 泛函分析
 
@@ -55,7 +56,7 @@ layout: single  # 单栏布局
 |2022| [普班统考](../USTC/2022FAmid.pdf) | [普班统考](../USTC/2022FAfinal.pdf)、[黄文](../USTC/2022FAHfinal.pdf) | 刘聪文、王兵、黄文（H） |
 |2023| [普班统考](../USTC/2023FAmid.pdf) | [黄文](../USTC/2023FAHfinal.pdf) | 刘聪文、王兵/许小卫/刘远、黄文（H） |
 |2024| [普班统考](../USTC/2024FAmid.pdf) | [普班统考](../USTC/2024FAfinal.pdf)、[黄文](../USTC/2024FAHfinal.pdf) | 刘聪文、陈杲/曲三太、黄文（H） |
-|2025| [刘聪文](../USTC/2025FAmid1.pdf)、[廖羽晨](../USTC/2025FAmid2.pdf) | - | 刘聪文、廖羽晨、黄文（H） |
+|2025| [刘聪文](../USTC/2025FAmid1.pdf)、[廖羽晨](../USTC/2025FAmid2.pdf) | [普班统考](../USTC/2025FAfinal.pdf) | 刘聪文、廖羽晨、黄文（H） |
 
 ## 微分方程2/现代偏微分方程
 
@@ -74,7 +75,7 @@ layout: single  # 单栏布局
 |2023| [1](../USTC/2023PDE2mid1.pdf)、[2](../USTC/2023PDE2mid2.pdf) | [期末](../USTC/2023PDE2final.pdf) | 麻希南 |
 |2024| [1](../USTC/2024PDE2mid1.pdf)、[2](../USTC/2024PDE2mid2.pdf) | [期末](../USTC/2024PDE2final.pdf) | 麻希南 |
 |2025| [1](../USTC/2025PDE2mid1.pdf)、[2](../USTC/2025PDE2mid2.pdf) | 暂缺 | 麻希南 |
-
+|2026| - | - | 章俊彦 |
 
 ## 高等实分析
 
@@ -90,7 +91,7 @@ layout: single  # 单栏布局
 |2022| 暂缺 | 暂缺 | 韩邦先 |
 |2023| [期中](../USTC/2023advrealmid.pdf) | 暂缺 | 李俊钢 |
 |2024| 无 | [期末](../USTC/2024advrealfinal.pdf) | 沈舜麟 |
-|2025| [期中](../USTC/2025advrealmid.pdf) | - | 许小卫 |
+|2025| [期中](../USTC/2025advrealmid.pdf) | [期末](../USTC/2025advrealfinal.pdf) | 许小卫 |
 
 
 ## 调和分析
@@ -110,6 +111,7 @@ layout: single  # 单栏布局
 |2023| 暂缺 | 郭经纬 |
 |2024| [期末](../USTC/2024HAfinal.pdf) | 郭经纬 |
 |2025| 暂缺 | 郭经纬 |
+|2026| - | 郭经纬 |
 
 ## 高等泛函分析
 
@@ -119,6 +121,7 @@ layout: single  # 单栏布局
 |2018| 暂缺 | 刘聪文 |
 |2021,2024| 暂缺 | 夏波 |
 |2025| 无 | 无 |
+|2026| 无 | 廖羽晨 |
 
 ## 二阶线性椭圆方程
 
