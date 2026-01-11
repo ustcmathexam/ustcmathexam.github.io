@@ -68,7 +68,7 @@ layout: single  # 单栏布局
 |2022秋| [陈杲](../USTC/2022topoHmid.pdf) | [陈杲](../USTC/2022topoHfinal.pdf) | 宋百林、陈杲（H） |
 |2023秋| [陈杲](../USTC/2023topoHmid.pdf) | [陈杲](../USTC/2023topoHfinal.pdf) | 宋百林、陈杲（H） |
 |2024秋| [王作勤](../USTC/2024topoHmid.pdf) | [王作勤](../USTC/2024topoHfinal.pdf) | 宋百林、王作勤（H） |
-|2023秋| [宋百林](../USTC/2025topomid.pdf) | - | 宋百林、陈杲（H） |
+|2025秋| [宋百林](../USTC/2025topomid.pdf) | - | 宋百林、陈杲（H） |
 
 ## 代数拓扑
 
@@ -81,6 +81,7 @@ layout: single  # 单栏布局
 |2023春| [期中](../USTC/2023ATmid.pdf) | 宋百林 |
 |2023秋| 暂缺 | 俞建青 |
 |2024| 暂缺 | 俞建青 |
+|2025| 暂缺 | 刘永强 |
 
 ## 微分流形
 
@@ -112,6 +113,7 @@ layout: single  # 单栏布局
 |2023| [期中](../USTC/2023RGmid.pdf)、[期末](../USTC/2023RGfinal.pdf) | 刘世平 |
 |2024| [期末](../USTC/2024RGfinal.pdf) | 王作勤 |
 |2025| [期中](../USTC/2025RGmid.pdf)、[期末](../USTC/2025RGfinal.pdf) | 李宇 |
+|2026| - | 刘世平 |
 
 ## 黎曼曲面
 
