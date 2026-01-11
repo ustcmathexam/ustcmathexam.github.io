@@ -35,6 +35,7 @@ layout: single  # 单栏布局
 |2023| [普班统考](../USTC/2023alg2mid.pdf)、[陈小伍](../USTC/2023alg2Hmid.pdf) | [普班统考](../USTC/2023alg2final.pdf)、[陈小伍](../USTC/2023alg2Hfinal.pdf) | 张磊、叶郁、陈小伍（H） |
 |2024| [刘永强](../USTC/2024alg2mid1.pdf)、[叶郁](../USTC/2024alg2mid2.pdf) | [陈小伍](../USTC/2024alg2Hfinal.pdf) | 刘永强、叶郁、陈小伍（H） |
 |2025| [刘永强](../USTC/2025alg2mid1.pdf)、[叶郁](../USTC/2025alg2mid2.pdf) | [普班统考](../USTC/2025alg2final.pdf)、[陈小伍](../USTC/2025alg2Hfinal.pdf) | 刘永强、叶郁、陈小伍（H） |
+|2026| 暂缺 | 暂缺 | 陈小伍、曹培根、叶郁（H） |
 
 ## 代数学
 
@@ -87,6 +88,7 @@ layout: single  # 单栏布局
 |2023| 暂缺 | 许金兴、曹阳、李沐西 | [代几1期末](../USTC/2023FAG1final.pdf) | 王振建 |
 |2024| 无 | 无 | [代几1期末](../USTC/2024FAG1final.pdf) | 张磊 |
 |2025| 无 | 无 | [代几1期末](../USTC/2025FAG1final.pdf) | 张磊 |
+|2026| - | 许金兴 | - | - |
 
 ## 同调代数
 
