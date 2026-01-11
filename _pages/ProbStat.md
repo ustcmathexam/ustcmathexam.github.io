@@ -57,7 +57,7 @@ layout: single  # 单栏布局
 |2014、15秋| 暂缺 | 暂缺 | 袁敏 |
 |2016-2023秋| [2018](../USTC/2018Mstatmid.pdf) | 暂缺 | 兰小红 |
 |2024秋| [期中](../USTC/2024Mstatmid.pdf)| [期末](../USTC/2024Mstatfinal.pdf) | 兰小红 |
-|2025秋| [期中](../USTC/2025Mstatmid.pdf)| [期末](../USTC/2025Mstatfinal.pdf) | 兰小红 |
+|2025秋| [期中](../USTC/2025Mstatmid.pdf)| [期末](../USTC/2025Mstatfinal.pdf)、[进阶期末](../USTC/2025MstatHfinal.pdf) | 兰小红 |
 
 ## 数理统计（管院统计系）
 
@@ -91,7 +91,7 @@ layout: single  # 单栏布局
 |2014-2019| 暂缺 | [15期末](../USTC/2015advprobfinal.pdf) | 翟建梁(14)、薄立军(15,16,18,19)、刘党政(17)、胡治水(统) |
 |2020| [贺鑫](../USTC/2020advprobmid.pdf) | [贺鑫](../USTC/2020advprobfinal.pdf)、[胡治水](../USTC/2020advprobfinal17.pdf) | 贺鑫、胡治水（统） |
 |2021| 暂缺 | [胡治水](../USTC/2021advprobfinal17.pdf) | 杨赛赛、胡治水（统） |
-|2022| [王世花](../USTC/2022advprobmid.pdf) | 暂缺 | 王世花、胡太忠（统） |
+|2022| [王世花](../USTC/2022advprobmid.pdf) | [王世花](../USTC/2022advprobfinal.pdf) | 王世花、胡太忠（统） |
 |2023| 暂缺 | 暂缺 | 杨赛赛、胡太忠（统） |
 |2024| [杨赛赛](../USTC/2024advprobmid.pdf) | [杨赛赛](../USTC/2024advprobfinal.pdf) | 杨赛赛、胡太忠（统） |
 
@@ -119,7 +119,7 @@ layout: single  # 单栏布局
 
 非参数统计：[2023](../USTC/2023nonparastatfinal.pdf)（刘行、郭潇、陈刘军）
 
-贝叶斯分析：[2023](../USTC/2023Bayes.pdf) （张伟平）
+贝叶斯分析：[2022](../USTC/2022Bayes.pdf)、[2023](../USTC/2023Bayes.pdf)、[2025](../USTC/20253Bayes.pdf)（张伟平）
 
 大样本理论：[2024](../USTC/2024largsample.pdf)（王占锋）
 
