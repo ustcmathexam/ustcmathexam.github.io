@@ -14,7 +14,7 @@ layout: single  # 单栏布局
 |2022| 暂缺 | 暂缺 | 陈卿、王作勤 |
 |2023| [期中](../USTC/2023geointromid.pdf) | [期末](../USTC/2023geointrofinal.pdf) | 申屠钧超、赵晨 |
 |2024| [期中](../USTC/2024geointromid.pdf) | [期末](../USTC/2024geointrofinal.pdf) | 申屠钧超、赵晨 |
-|2025| - | - | 申屠钧超、王作勤 |
+|2025| [小测1](../USTC/2024geointroquiz1.pdf)、[小测2](../USTC/2024geointroquiz2.pdf) | [期末](../USTC/2025geointrofinal.pdf) | 申屠钧超、王作勤 |
 
 ## 微分几何
 
@@ -65,7 +65,7 @@ layout: single  # 单栏布局
 |2019春| [王作勤](../USTC/2019topoHmid.pdf) | [王作勤](../USTC/2019topoHfinal.pdf) | 宋百林、王作勤（H）|
 |2020春| 暂缺 | [宋百林](../USTC/2020topofinal.pdf)、[王作勤](..USTC/2020topoHfinal.pdf) | 宋百林、王作勤（H） |
 |2021春| [宋百林](../USTC/2021topomid.pdf)、[王作勤](../USTC/2021topoHmid.pdf) | [宋百林](../USTC/2021topofinal.pdf) | 宋百林、王作勤（H） |
-|2022春| 暂缺 | 暂缺 | 宋百林、王作勤（H） |
+|2022春| 暂缺 | [宋百林](../USTC/2022Stopomid.pdf) | 宋百林、王作勤（H） |
 |2022秋| [陈杲](../USTC/2022topoHmid.pdf) | [陈杲](../USTC/2022topoHfinal.pdf) | 宋百林、陈杲（H） |
 |2023秋| [陈杲](../USTC/2023topoHmid.pdf) | [陈杲](../USTC/2023topoHfinal.pdf) | 宋百林、陈杲（H） |
 |2024秋| [王作勤](../USTC/2024topoHmid.pdf) | [王作勤](../USTC/2024topoHfinal.pdf) | 宋百林、王作勤（H） |
