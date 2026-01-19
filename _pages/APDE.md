@@ -56,7 +56,7 @@ layout: single  # 单栏布局
 |2022| [普班统考](../USTC/2022FAmid.pdf) | [普班统考](../USTC/2022FAfinal.pdf)、[黄文](../USTC/2022FAHfinal.pdf) | 刘聪文、王兵、黄文（H） |
 |2023| [普班统考](../USTC/2023FAmid.pdf) | [黄文](../USTC/2023FAHfinal.pdf) | 刘聪文、王兵/许小卫/刘远、黄文（H） |
 |2024| [普班统考](../USTC/2024FAmid.pdf) | [普班统考](../USTC/2024FAfinal.pdf)、[黄文](../USTC/2024FAHfinal.pdf) | 刘聪文、陈杲/曲三太、黄文（H） |
-|2025| [刘聪文](../USTC/2025FAmid1.pdf)、[廖羽晨](../USTC/2025FAmid2.pdf) | [普班统考](../USTC/2025FAfinal.pdf) | 刘聪文、廖羽晨、黄文（H） |
+|2025| [刘聪文](../USTC/2025FAmid1.pdf)、[廖羽晨](../USTC/2025FAmid2.pdf) | [普班统考](../USTC/2025FAfinal.pdf)、[黄文](../USTC/2025FAHfinal.pdf) | 刘聪文、廖羽晨、黄文（H） |
 
 ## 微分方程2/现代偏微分方程
 
