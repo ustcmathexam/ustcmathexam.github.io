@@ -96,7 +96,7 @@ layout: single  # 单栏布局
 |2022| 暂缺 | 许小卫 |
 |2023| [期中](../USTC/2023DMmid.pdf) | 王作勤 |
 |2024| [期中](../USTC/2024DMmid.pdf)、[期末](../USTC/2024DMfinal.pdf) | 张俊 |
-|2025| 暂缺 | 张永兵 |
+|2025| [期末](../USTC/2025DMfinal.pdf) | 张永兵 |
 
 
 ## 黎曼几何
