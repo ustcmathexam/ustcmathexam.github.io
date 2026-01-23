@@ -69,7 +69,7 @@ layout: single  # 单栏布局
 |2022秋| [陈杲](../USTC/2022topoHmid.pdf) | [陈杲](../USTC/2022topoHfinal.pdf) | 宋百林、陈杲（H） |
 |2023秋| [陈杲](../USTC/2023topoHmid.pdf) | [陈杲](../USTC/2023topoHfinal.pdf) | 宋百林、陈杲（H） |
 |2024秋| [王作勤](../USTC/2024topoHmid.pdf) | [王作勤](../USTC/2024topoHfinal.pdf) | 宋百林、王作勤（H） |
-|2025秋| [宋百林](../USTC/2025topomid.pdf) | - | 宋百林、陈杲（H） |
+|2025秋| [宋百林](../USTC/2025topomid.pdf) | [陈杲](../USTC/2025topoHfinal.pdf) | 宋百林、陈杲（H） |
 
 ## 代数拓扑
 
