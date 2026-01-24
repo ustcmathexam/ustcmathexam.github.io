@@ -79,7 +79,7 @@ layout: single  # 单栏布局
 |2017-2022| - | [17期末](../USTC/2017MAB1final.pdf)、 [17-22压缩包](../USTC/MAB1exams.zip) | 
 |2023| [期中](../USTC/2023MAB1mid.pdf) | [期末](../USTC/2023MAB1final.pdf) | 
 |2024| [期中](../USTC/2024MAB1mid.pdf) | [期末](../USTC/2024MAB1final.pdf) | 
-|2025| [期中](../USTC/2025MAB1mid.pdf) | - | 
+|2025| [期中](../USTC/2025MAB1mid.pdf) | [期末](../USTC/2025MAB1final.pdf) | 
 
 
 ## 数学分析B2
