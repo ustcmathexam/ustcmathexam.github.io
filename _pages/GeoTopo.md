@@ -138,7 +138,7 @@ layout: single  # 单栏布局
 |2018| 无 | 无 |
 |2019| 暂缺 | 王谢平 |
 |2020春| [期末](../USTC/2020Smulticomplex.pdf) | 赵晨 |
-|2021春| [期末](../2021Smulticomplexfinal.pdf) | 王谢平 |
+|2021春| [期末](../USTC/2021Smulticomplexfinal.pdf) | 王谢平 |
 |2021秋| 暂缺 | 赵晨 |
 |2022| 暂缺 | 王谢平 |
 |2023| 暂缺 | 王谢平 |
