@@ -96,7 +96,7 @@ layout: single  # 单栏布局
 |2022| [王世花](../USTC/2022advprobmid.pdf) | [王世花](../USTC/2022advprobfinal.pdf) | 王世花、胡太忠（统） |
 |2023| 暂缺 | 暂缺 | 杨赛赛、胡太忠（统） |
 |2024| [杨赛赛](../USTC/2024advprobmid.pdf) | [杨赛赛](../USTC/2024advprobfinal.pdf) | 杨赛赛、胡太忠（统） |
-|2025| [杨赛赛](../USTC/2025advprobmid.pdf) | 暂缺 | 杨赛赛、胡太忠（统） |
+|2025| [杨赛赛](../USTC/2025advprobmid.pdf) | [杨赛赛](../USTC/2025advprobfinal.pdf) | 杨赛赛、胡太忠（统） |
 
 ## 随机过程（本研贯通，数院）
 
