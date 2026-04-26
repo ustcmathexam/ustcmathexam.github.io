@@ -75,7 +75,7 @@ layout: single  # 单栏布局
 |2023| [1](../USTC/2023PDE2mid1.pdf)、[2](../USTC/2023PDE2mid2.pdf) | [期末](../USTC/2023PDE2final.pdf) | 麻希南 |
 |2024| [1](../USTC/2024PDE2mid1.pdf)、[2](../USTC/2024PDE2mid2.pdf) | [期末](../USTC/2024PDE2final.pdf) | 麻希南 |
 |2025| [1](../USTC/2025PDE2mid1.pdf)、[2](../USTC/2025PDE2mid2.pdf) | 暂缺 | 麻希南 |
-|2026| - | - | 章俊彦 |
+|2026| [期中](../USTC/2026PDE2mid.pdf) | - | 章俊彦 |
 
 ## 高等实分析
 
