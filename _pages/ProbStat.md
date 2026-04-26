@@ -25,7 +25,7 @@ layout: single  # 单栏布局
 |2023| 暂缺 | 刘党政（H）、张娜 | [期中](../USTC/2023Fprobmid.pdf)、[期末](../USTC/2023Fprobfinal.pdf) | 刘党政 |
 |2024| [进阶](../USTC/2024SprobHfinal.pdf) | 刘党政（H）、尚世界 | [期中](../USTC/2024Fprobmid.pdf)、[期末](../USTC/2024Fprobfinal.pdf) | 刘党政 |
 |2025| [刘党政期中](../USTC/2025Sprobmid.pdf) 、[期末](../USTC/2025Sprobfinal.pdf)| 刘党政（H）、尚世界 | [期中](../USTC/2025Fprobmid.pdf) | 刘党政 |
-|2026| -| 刘党政（H）、尚世界 | - | 刘党政 |
+|2026| [期中](../USTC/2026Sprobmid.pdf)| 刘党政（H）、尚世界 | - | 刘党政 |
 
 ## 应用随机过程（数院）
 
@@ -110,7 +110,7 @@ layout: single  # 单栏布局
 |2023| [期中](../USTC/2023Stochmid.pdf) | [期末](../USTC/2023Stochfinal.pdf) | 张土生 |
 |2024| 暂缺 | 暂缺 | 张土生/杨赛赛 |
 |2025| [期中](../USTC/2025Stochmid.pdf) | [期末](../USTC/2025Stochfinal.pdf) | 张土生 |
-|2026| - | - | 张土生 |
+|2026| [期中](../USTC/2026Stochmid.pdf) | - | 张土生 |
 
 ## 其它概率统计课程
 
