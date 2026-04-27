@@ -96,7 +96,7 @@ layout: single  # 单栏布局
 |2023| [期中](../USTC/2023MAB2mid.pdf) | [期末](../USTC/2023MAB2final.pdf) | 
 |2024| [期中](../USTC/2024MAB2mid.pdf) | [期末](../USTC/2024MAB2final.pdf) | 
 |2025| [期中](../USTC/2025MAB2mid.pdf) | [期末](../USTC/2025MAB2final.pdf) | 
-|2025| [期中](../USTC/2026MAB2mid.pdf) | - | 
+|2026| [期中](../USTC/2026MAB2mid.pdf) | - | 
 
 ## 数学分析B3
 
