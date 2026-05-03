@@ -133,8 +133,8 @@ layout: single  # 单栏布局
 |2022| 暂缺 | 暂缺 | 叶郁、王新茂 |
 |2023| [欧阳毅](../USTC/2023LAA1mid.pdf) | [AB题](../USTC/2023LAA1final.pdf)、[答案](../USTC/2023LAA1finalsol.pdf)| 欧阳毅、王新茂 |
 |2024| [陈发来](../USTC/2024LAA1mid.pdf) | [陈发来](../USTC/2024LAA1final1.pdf)、[王新茂](../USTC/2024LAA1final.pdf) | 陈发来、王新茂 |
-|2025| [王新茂](../USTC/2025LAA1mid1.pdf) | [AB题](../USTC/2025LAA1final.pdf) [答案](../USTC/2025LAA1finalsol.pdf) | 欧阳毅、王新茂 |
-|2026| - | - | 欧阳毅、王新茂 |
+|2025| [王新茂](../USTC/2025LAA1mid1.pdf) | [AB题](../USTC/2025LAA1final.pdf)、[答案](../USTC/2025LAA1finalsol.pdf) | 欧阳毅、王新茂 |
+|2026| [王新茂](../USTC/2026LAA1mid1.pdf) | - | 欧阳毅、王新茂 |
 
 ## 线性代数A2
 
@@ -167,6 +167,7 @@ layout: single  # 单栏布局
 |2024春| 暂缺 | [期末](../USTC/2024SLAB1final.pdf) | 
 |2025春| [期中](../USTC/2025SLAB1mid.pdf) | - | 
 |2025秋| [期中](../USTC/2025FLAB1mid.pdf) | [期末](../USTC/2025FLAB1final.pdf) | 
+|2026春| - | - | 
 
 ## 线性代数B2
 
