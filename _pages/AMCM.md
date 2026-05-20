@@ -45,3 +45,8 @@ layout: single  # 单栏布局
 |2019-23春| [2022](../USTC/2022Soptimization.pdf) | 杨周旺 |
 |2024-25春| [2024](../USTC/2024Soptimization.pdf) | 陈士祥 |
 
+## 数理逻辑（计算机学院）
+
+数理逻辑：[2018期末](../USTC/2018logicfinal.pdf)、[2020期中](../USTC/2020logicmid.pdf)、[2023期末](../USTC/2023logicfinal.pdf)
+
+
