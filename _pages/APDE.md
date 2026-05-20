@@ -40,7 +40,7 @@ layout: single  # 单栏布局
 |2023| [刘聪文](../USTC/2023realmidA.pdf)、[补测](../USTC/2023realmidB.pdf)、[任广斌](../USTC/2023realHmid.pdf) | [普班统考](../USTC/2023realfinal.pdf)、[任广斌](../USTC/2023realHfinal.pdf) | 刘聪文、李宇、任广斌（H） |
 |2024| [任广斌](../USTC/2024realHmid.pdf) | [普班统考](../USTC/2024realfinal.pdf) | 李皓昭、于树澄、任广斌（H） |
 |2025| [普班统考](../USTC/2025realmid.pdf)、[任广斌](../USTC/2025realHmid.pdf) | [普班统考](../USTC/2025realfinal.pdf)、[任广斌](../USTC/2025realHfinal.pdf) | 李皓昭、于树澄、任广斌（H） |
-|2026| [任广斌](../USTC/2026realHmid.pdf) | - | 李皓昭、刘聪文、任广斌（H） |
+|2026| [刘聪文](../USTC/2026realmidA.pdf)、[任广斌](../USTC/2026realHmid.pdf) | - | 刘聪文、李皓昭、任广斌（H） |
 
 ## 泛函分析
 
