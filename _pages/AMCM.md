@@ -11,7 +11,7 @@ layout: single  # 单栏布局
 |2023| [期末](../USTC/2023NumAnalfinal.pdf) | 徐岩 |
 |2024| [期末](../USTC/2024NumAnalfinal.pdf) | 徐岩 |
 |2025| - | 徐岩 |
-|2026| [期中](../USTC/2026NumAnalmid.pdf) | 徐岩、夏银华（H） |
+|2026| [期中](../USTC/2026NumAnalmid.pdf)、[期末](../USTC/2026NumAnalfinal.pdf) | 徐岩、夏银华（H） |
 
 ## 组合学
 
