@@ -61,4 +61,4 @@ layout: single  # 单栏布局
 |2022| [试题](../USTC/2022baoyan.pdf) |
 |2024| [试题](../USTC/2024baoyan.pdf) |
 |2025| [试题](../USTC/2025baoyan.pdf) |
-
+|2026| [试题](../USTC/2026baoyan.pdf) |
