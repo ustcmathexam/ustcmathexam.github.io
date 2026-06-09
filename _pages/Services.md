@@ -191,7 +191,7 @@ layout: single  # 单栏布局
 |2003-2022| [合集](../USTC/probstatexams.pdf) | 
 |2023| [期末](../USTC/2023probstatfinal.pdf) |
 |2024| [期末](../USTC/2024probstatfinal.pdf) | 
-|2025| [期末](../USTC/2025probstatfinal.pdf) |
+|2025| [25春期中](../USTC/2025Sprobstatmid.pdf)、 [期末](../USTC/2025probstatfinal.pdf) |
 
 
 ## 复变函数A、B
