@@ -25,7 +25,7 @@ layout: single  # 单栏布局
 |2023| 暂缺 | 刘党政（H）、张娜 | [期中](../USTC/2023Fprobmid.pdf)、[期末](../USTC/2023Fprobfinal.pdf) | 刘党政 |
 |2024| [进阶](../USTC/2024SprobHfinal.pdf) | 刘党政（H）、尚世界 | [期中](../USTC/2024Fprobmid.pdf)、[期末](../USTC/2024Fprobfinal.pdf) | 刘党政 |
 |2025| [刘党政期中](../USTC/2025Sprobmid.pdf) 、[期末](../USTC/2025Sprobfinal.pdf)| 刘党政（H）、尚世界 | [期中](../USTC/2025Fprobmid.pdf) | 刘党政 |
-|2026| [刘党政期中](../USTC/2026SprobmidA.pdf)、[尚世界期中](../USTC/2026SprobmidB.pdf)| 刘党政（H）、尚世界 | - | 刘党政 |
+|2026| [刘党政期中](../USTC/2026SprobmidA.pdf)、[尚世界期中](../USTC/2026SprobmidB.pdf)、[期末](../USTC/2026Sprobfinal.pdf)| 刘党政（H）、尚世界 | - | 刘党政 |
 
 ## 应用随机过程（数院）
 
@@ -126,7 +126,7 @@ layout: single  # 单栏布局
 
 大样本理论：[2024](../USTC/2024largsample.pdf)（王占锋）
 
-属性数据分析：[2021-2024](../USTC/2021-2024CDAfinal.pdf)合集（2021-2024 张洪、2022 金百锁）
+属性数据分析：[2021-2024](../USTC/2021-2024CDAfinal.pdf)合集、[2026模拟题](../USTC/2026CDAmock.pdf)、[2026期末](../USTC/2026CDAfinal.pdf)（2021-2024、2026张洪，2022 金百锁）
 
 凸优化：[2025](../USTC/2025convexoptfinal.pdf)（金百锁、张靖南）
 
