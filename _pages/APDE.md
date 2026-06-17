@@ -40,7 +40,7 @@ layout: single  # 单栏布局
 |2023| [刘聪文](../USTC/2023realmidA.pdf)、[补测](../USTC/2023realmidB.pdf)、[任广斌](../USTC/2023realHmid.pdf) | [普班统考](../USTC/2023realfinal.pdf)、[任广斌](../USTC/2023realHfinal.pdf) | 刘聪文、李宇、任广斌（H） |
 |2024| [任广斌](../USTC/2024realHmid.pdf) | [普班统考](../USTC/2024realfinal.pdf) | 李皓昭、于树澄、任广斌（H） |
 |2025| [普班统考](../USTC/2025realmid.pdf)、[任广斌](../USTC/2025realHmid.pdf) | [普班统考](../USTC/2025realfinal.pdf)、[任广斌](../USTC/2025realHfinal.pdf) | 李皓昭、于树澄、任广斌（H） |
-|2026| [刘聪文](../USTC/2026realmidA.pdf)、[任广斌](../USTC/2026realHmid.pdf) | - | 刘聪文、李皓昭、任广斌（H） |
+|2026| [刘聪文](../USTC/2026realmidA.pdf)、[任广斌](../USTC/2026realHmid.pdf) | [任广斌](../USTC/2026realHfinal.pdf) | 刘聪文、李皓昭、任广斌（H） |
 
 ## 泛函分析
 
@@ -75,7 +75,7 @@ layout: single  # 单栏布局
 |2023| [1](../USTC/2023PDE2mid1.pdf)、[2](../USTC/2023PDE2mid2.pdf) | [期末](../USTC/2023PDE2final.pdf) | 麻希南 |
 |2024| [1](../USTC/2024PDE2mid1.pdf)、[2](../USTC/2024PDE2mid2.pdf) | [期末](../USTC/2024PDE2final.pdf) | 麻希南 |
 |2025| [1](../USTC/2025PDE2mid1.pdf)、[2](../USTC/2025PDE2mid2.pdf) | 暂缺 | 麻希南 |
-|2026| [期中](../USTC/2026PDE2mid.pdf) | - | 章俊彦 |
+|2026| [期中](../USTC/2026PDE2mid.pdf) | [期末答案](../USTC/2026PDE2finalsol.pdf) | 章俊彦 |
 
 ## 高等实分析
 
