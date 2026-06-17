@@ -110,7 +110,7 @@ layout: single  # 单栏布局
 |2023| [期中](../USTC/2023Stochmid.pdf) | [期末](../USTC/2023Stochfinal.pdf) | 张土生 |
 |2024| 暂缺 | 暂缺 | 张土生/杨赛赛 |
 |2025| [期中](../USTC/2025Stochmid.pdf) | [期末](../USTC/2025Stochfinal.pdf) | 张土生 |
-|2026| [期中](../USTC/2026Stochmid.pdf) | - | 张土生 |
+|2026| [期中](../USTC/2026Stochmid.pdf) | [期末](../USTC/2026Stochfinal.pdf) | 张土生 |
 
 ## 其它概率统计课程
 
