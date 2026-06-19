@@ -102,7 +102,7 @@ layout: single  # 单栏布局
 |2020秋| [1](../USTC/2020HomoAlgmid.pdf)、[2](../USTC/2020HomoAlgmid2.pdf) | 乐珏 |
 |2021秋| 暂缺 | 乐珏 |
 |2022-2025| 无 | 无 |
-|2026春| [期末](../USTC/2026HomoAlgfinal.pdf) | 胡海刚/王凯 |
+|2026春| [期末](../USTC/2026SHomoAlgfinal.pdf) | 胡海刚/王凯 |
 
 ## 代数数论
 
