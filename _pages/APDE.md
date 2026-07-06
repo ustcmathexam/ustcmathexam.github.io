@@ -29,7 +29,7 @@ layout: single  # 单栏布局
 
 |年份|期中考试|期末考试|授课教师|
 |:----:|:------------:|:------------:|:------------:|
-|2015| [普班统考](../USTC/2015realmid.pdf) | [普班统考](../2015realfinal.pdf) | 赵立丰、郭经纬、任广斌（H） |
+|2015| [普班统考](../USTC/2015realmid.pdf) | [普班统考](../USTC/2015realfinal.pdf) | 赵立丰、郭经纬、任广斌（H） |
 |2016| [刘聪文](../USTC/2016realmidw.pdf)、[郭经纬](../USTC/2016realmide.pdf)、[殷浩](../USTC/2016realHmid.pdf) | [殷浩](../USTC/2016realHfinal.pdf) | 刘聪文、郭经纬、殷浩（H） |
 |2017| [郭经纬](../USTC/2017realmidw.pdf)、[任广斌](../USTC/2017realHmid.pdf) | 暂缺 | 赵立丰、郭经纬、任广斌（H） |
 |2018| 暂缺 | 暂缺 | 王作勤、麻希南、任广斌（H）|
@@ -40,7 +40,7 @@ layout: single  # 单栏布局
 |2023| [刘聪文](../USTC/2023realmidA.pdf)、[补测](../USTC/2023realmidB.pdf)、[任广斌](../USTC/2023realHmid.pdf) | [普班统考](../USTC/2023realfinal.pdf)、[任广斌](../USTC/2023realHfinal.pdf) | 刘聪文、李宇、任广斌（H） |
 |2024| [任广斌](../USTC/2024realHmid.pdf) | [普班统考](../USTC/2024realfinal.pdf) | 李皓昭、于树澄、任广斌（H） |
 |2025| [普班统考](../USTC/2025realmid.pdf)、[任广斌](../USTC/2025realHmid.pdf) | [普班统考](../USTC/2025realfinal.pdf)、[任广斌](../USTC/2025realHfinal.pdf) | 李皓昭、于树澄、任广斌（H） |
-|2026| [刘聪文](../USTC/2026realmidA.pdf)、[任广斌](../USTC/2026realHmid.pdf) | [任广斌](../USTC/2026realHfinal.pdf) | 刘聪文、李皓昭、任广斌（H） |
+|2026| [刘聪文](../USTC/2026realmidA.pdf)、[李皓昭](../USTC/2026realmidB.pdf)、[任广斌](../USTC/2026realHmid.pdf) | [普班统考](../USTC/2026realfinal.pdf)、[任广斌](../USTC/2026realHfinal.pdf) | 刘聪文、李皓昭、任广斌（H） |
 
 ## 泛函分析
 
@@ -48,7 +48,7 @@ layout: single  # 单栏布局
 |:----:|:------------:|:------------:|:------------:|
 |2015| 暂缺 | 暂缺 | 王毅、罗罗、王作勤（H） |
 |2016| 暂缺 | [刘聪文](../USTC/2016FAHfinal.pdf) | 罗罗、刘聪文（H） |
-|2017| 暂缺 | 暂缺 | 罗罗、黄文（H） |
+|2017| 暂缺 | [黄文](../USTC/2017FAHfinal.pdf) | 罗罗、黄文（H） |
 |2018| [普班统考](../USTC/2018FAmid.pdf) | [普班统考](../USTC/2018FAfinal.pdf)、[黄文](../USTC/2018FAHfinal.pdf) | 许小卫、刘聪文、黄文（H）|
 |2019| [普班统考](../USTC/2019FAmid.pdf) | [普班统考](../USTC/2019FAfinal.pdf)、[黄文](../USTC/2019FAHfinal.pdf) | 王毅、刘聪文、黄文（H）|
 |2020| [普班统考](../USTC/2020FAmid.pdf) | [普班统考](../USTC/2020FAfinal.pdf)、[黄文](../USTC/2020FAHfinal.pdf) | 刘聪文、许小卫、黄文（H） |
@@ -121,7 +121,7 @@ layout: single  # 单栏布局
 |2018| 暂缺 | 刘聪文 |
 |2021,2024| 暂缺 | 夏波 |
 |2025| 无 | 无 |
-|2026| - | 廖羽晨 |
+|2026| [期末](../USTC/2026advFAfinal.pdf) | 廖羽晨 |
 
 ## 二阶线性椭圆方程
 
