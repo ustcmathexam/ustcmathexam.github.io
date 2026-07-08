@@ -48,7 +48,7 @@ layout: single  # 单栏布局
 |2023春| [期中](../USTC/2023SPmid.pdf) | [期末](../USTC/2023SPfinal.pdf) | 胡太忠 |
 |2024春| [期中](../USTC/2024SPmid.pdf) | [期末](../USTC/2024SPfinal.pdf) | 胡太忠 |
 |2025春| [期中](../USTC/2025SPmid.pdf) | [期末](../USTC/2025SPfinal.pdf) | 冯群强 |
-|2026春| - | - | 冯群强 |
+|2026春| [期中](../USTC/2026SPmid.pdf) | [期末](../USTC/2026SPfinal.pdf) | 冯群强 |
 
 ## 数理统计（数院）
 
@@ -70,7 +70,7 @@ layout: single  # 单栏布局
 |2022-23春| [期中残卷](../USTC/2023Sstatmid.pdf) | [期末](../USTC/2023Sstatfinal.pdf) | 张伟平 |
 |2024春| [期中](../USTC/2024Sstatmid.pdf) | [期末](../USTC/2024Sstatfinal.pdf) | 张伟平、陈昱 |
 |2025春| [期中](../USTC/2025Sstatmid.pdf) | 暂缺 | 张伟平、张洪 |
-|2026春| - | - | 张伟平、陈昱 |
+|2026春| - | [期末回忆版不全](../USTC/2026Sstatfinal.pdf) | 张伟平、陈昱 |
 
 ## 回归分析（数院）
 
