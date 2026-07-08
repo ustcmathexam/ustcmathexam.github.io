@@ -167,7 +167,7 @@ layout: single  # 单栏布局
 |2024春| 暂缺 | [期末](../USTC/2024SLAB1final.pdf) | 
 |2025春| [期中](../USTC/2025SLAB1mid.pdf) | - | 
 |2025秋| [期中](../USTC/2025FLAB1mid.pdf) | [期末](../USTC/2025FLAB1final.pdf) | 
-|2026春| [期中](../USTC/2026SLAB1mid.pdf) | - | 
+|2026春| [期中](../USTC/2026SLAB1mid.pdf) | [期末](../USTC/2026SLAB1final.pdf) | 
 
 ## 线性代数B2
 
