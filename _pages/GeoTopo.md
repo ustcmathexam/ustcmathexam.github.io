@@ -15,6 +15,7 @@ layout: single  # 单栏布局
 |2023| [期中](../USTC/2023geointromid.pdf) | [期末](../USTC/2023geointrofinal.pdf) | 申屠钧超、赵晨 |
 |2024| [期中](../USTC/2024geointromid.pdf) | [期末](../USTC/2024geointrofinal.pdf) | 申屠钧超、赵晨 |
 |2025| [小测1](../USTC/2024geointroquiz1.pdf)、[小测2](../USTC/2024geointroquiz2.pdf) | [期末](../USTC/2025geointrofinal.pdf) | 申屠钧超、王作勤 |
+|2026| - | - | 申屠钧超 |
 
 ## 微分几何
 
@@ -31,6 +32,7 @@ layout: single  # 单栏布局
 |2023| [许小卫](../USTC/2023DGmid2.pdf)、[张永兵](../USTC/2023DGmid.pdf) | [普班统考](../USTC/2023DGfinal.pdf)、[刘世平](../USTC/2023DGHfinal.pdf) | 许小卫、张永兵、刘世平（H） |
 |2024| [刘世平](../USTC/2024DGHmid.pdf) | [普班统考](../USTC/2024DGfinal.pdf)、[刘世平](../USTC/2024DGHfinal.pdf) | 许小卫、张永兵、刘世平（H） |
 |2025| [韦勇](../USTC/2025DGmidA.pdf) | - | 韦勇、夏铭辰、刘世平（H） |
+|2016| - | - | 俞建青、崔洪斌、杨迪（H） |
 
 ## 复分析
 
@@ -51,7 +53,7 @@ layout: single  # 单栏布局
 |2023| [李思敏](../USTC/2023complexmid.pdf) | [普班统考](../USTC/2023complexfinal.pdf) | 李思敏、杨迪、李皓昭（H） |
 |2024| [普班统考](../USTC/2024complexmid.pdf)、[王兵](../USTC/2024complexHmid.pdf) | [普班统考](../USTC/2024complexfinal.pdf)、[王兵](../USTC/2024complexHfinal.pdf) | 李思敏、刘聪文、王兵（H） |
 |2025| [普班统考](../USTC/2025complexmid.pdf)、[王兵](../USTC/2025complexHmid.pdf) | [普班统考](../USTC/2025complexfinal.pdf)、[王兵](../USTC/2025complexHfinal.pdf) | 李思敏、杨迪、王兵（H） |
-|2026| [宋百林](../USTC/2026complexmidA.pdf)、[韦勇](../USTC/2026complexmidB.pdf)、[王兵](../USTC/2026complexHmid.pdf) | [王兵](../USTC/2026complexHfinal.pdf) | 韦勇、宋百林、王兵（H） |
+|2026| [宋百林](../USTC/2026complexmidA.pdf)、[韦勇](../USTC/2026complexmidB.pdf)、[王兵](../USTC/2026complexHmid.pdf) | [宋百林](../USTC/2026complexfinalA.pdf)、[王兵](../USTC/2026complexHfinal.pdf) | 韦勇、宋百林、王兵（H） |
 
 ## 拓扑学
 
@@ -70,6 +72,7 @@ layout: single  # 单栏布局
 |2023秋| [陈杲](../USTC/2023topoHmid.pdf) | [陈杲](../USTC/2023topoHfinal.pdf) | 宋百林、陈杲（H） |
 |2024秋| [王作勤](../USTC/2024topoHmid.pdf) | [王作勤](../USTC/2024topoHfinal.pdf) | 宋百林、王作勤（H） |
 |2025秋| [宋百林](../USTC/2025topomid.pdf)、[陈杲](../USTC/2025topoHmid.pdf) | [陈杲](../USTC/2025topoHfinal.pdf) | 宋百林、陈杲（H） |
+|2026秋| - | - | 宋百林、陈杲（H） |
 
 ## 代数拓扑
 
@@ -114,7 +117,7 @@ layout: single  # 单栏布局
 |2023| [期中](../USTC/2023RGmid.pdf)、[期末](../USTC/2023RGfinal.pdf) | 刘世平 |
 |2024| [期末](../USTC/2024RGfinal.pdf) | 王作勤 |
 |2025| [期中](../USTC/2025RGmid.pdf)、[期末](../USTC/2025RGfinal.pdf) | 李宇 |
-|2026| - | 刘世平 |
+|2026| [期中](../USTC/2026RGmid.pdf) | 刘世平 |
 
 ## 黎曼曲面
 
