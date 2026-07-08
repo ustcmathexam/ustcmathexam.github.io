@@ -24,6 +24,7 @@ layout: single  # 单栏布局
 |2023| [赵立丰](../USTC/2023ODEmid.pdf) | 暂缺 | 赵立丰、宁吴庆 |
 |2024| 赵立丰[试题](../USTC/2024ODEmid.pdf)、[答案](../USTC/2024ODEmid1.pdf) | [赵立丰](../USTC/2024PDE1finalB.pdf)、[宁吴庆](../USTC/2024PDE1finalA.pdf) | 赵立丰、宁吴庆 |
 |2025| [期中统考](../USTC/2025ODEmid.pdf)、[期末统考](../USTC/2025ODEfinal.pdf) | [小测-章俊彦](../USTC/2025PDE1midA.pdf)、[小测-赵立丰](../USTC/2025PDE1midB.pdf)、[期末统考](../USTC/2025PDE1finalsol.pdf) | 赵立丰(ODE+PDE)、宁吴庆(ODE)、章俊彦(PDE) |
+|2026| - | - | 赵立丰、章俊彦 |
 
 ## 实分析
 
@@ -57,6 +58,7 @@ layout: single  # 单栏布局
 |2023| [普班统考](../USTC/2023FAmid.pdf) | [黄文](../USTC/2023FAHfinal.pdf) | 刘聪文、王兵/许小卫/刘远、黄文（H） |
 |2024| [普班统考](../USTC/2024FAmid.pdf) | [普班统考](../USTC/2024FAfinal.pdf)、[黄文](../USTC/2024FAHfinal.pdf) | 刘聪文、陈杲/曲三太、黄文（H） |
 |2025| [刘聪文](../USTC/2025FAmid1.pdf)、[廖羽晨](../USTC/2025FAmid2.pdf) | [普班统考](../USTC/2025FAfinal.pdf)、[黄文](../USTC/2025FAHfinal.pdf) | 刘聪文、廖羽晨、黄文（H） |
+|2026| - | - | 刘聪文、廖羽晨、黄文（H） |
 
 ## 微分方程2/现代偏微分方程
 
@@ -92,6 +94,7 @@ layout: single  # 单栏布局
 |2023| [期中](../USTC/2023advrealmid.pdf) | 暂缺 | 李俊钢 |
 |2024| 无 | [期末](../USTC/2024advrealfinal.pdf) | 沈舜麟 |
 |2025| [期中](../USTC/2025advrealmid.pdf) | [期末](../USTC/2025advrealfinal.pdf) | 许小卫 |
+|2026| - | - | 王谢平 |
 
 
 ## 调和分析
