@@ -59,6 +59,7 @@ layout: single  # 单栏布局
 |2016-2023秋| [2018](../USTC/2018Mstatmid.pdf) | 暂缺 | 兰小红 |
 |2024秋| [期中](../USTC/2024Mstatmid.pdf)| [期末](../USTC/2024Mstatfinal.pdf) | 兰小红 |
 |2025秋| [期中](../USTC/2025Mstatmid.pdf)| [期末](../USTC/2025Mstatfinal.pdf)、[进阶期末](../USTC/2025MstatHfinal.pdf) | 兰小红 |
+|2026秋| - | - | 兰小红 |
 
 ## 数理统计（管院统计系）
 
