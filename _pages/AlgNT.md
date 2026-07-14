@@ -67,7 +67,7 @@ layout: single  # 单栏布局
 |2017| 暂缺 | 申屠钧超 |
 |2018| 暂缺 | 申屠钧超 |
 |2019| [期末](../USTC/2019CommAlg.pdf) | 陈小伍 |
-|2020| [期中](../USTC/2019CommAlgmid.pdf) | 马立明 |
+|2020| [期中](../USTC/2020CommAlgmid.pdf)、[期末](../USTC/2020CommAlgfinal.pdf) | 马立明 |
 |2021| 暂缺 | 杨金榜 |
 |2022| 暂缺 | 申屠钧超 |
 |2023| [期末](../USTC/2023CommAlg.pdf) | 许金兴 |
