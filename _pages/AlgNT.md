@@ -17,6 +17,7 @@ layout: single  # 单栏布局
 |2023| [杨金榜](../USTC/2023alg1mid.pdf)、[马立明](../USTC/2023alg1mid2.pdf) | [马立明](../USTC/2023alg1final.pdf) | 杨金榜、马立明 |
 |2024| [杨金榜](../USTC/2024alg1mid2.pdf)、[马立明](../USTC/2024alg1mid1.pdf) | [马立明](../USTC/2024alg1final.pdf) | 杨金榜、马立明 |
 |2025| - | [期末](../USTC/2025alg1final.pdf) | 申屠钧超、马立明 |
+|2025| - | - | 马立明 |
 
 ## 近世代数
 
@@ -35,7 +36,7 @@ layout: single  # 单栏布局
 |2023| [普班统考](../USTC/2023alg2mid.pdf)、[陈小伍](../USTC/2023alg2Hmid.pdf) | [普班统考](../USTC/2023alg2final.pdf)、[陈小伍](../USTC/2023alg2Hfinal.pdf) | 张磊、叶郁、陈小伍（H） |
 |2024| [刘永强](../USTC/2024alg2mid1.pdf)、[叶郁](../USTC/2024alg2mid2.pdf) | [陈小伍](../USTC/2024alg2Hfinal.pdf) | 刘永强、叶郁、陈小伍（H） |
 |2025| [刘永强](../USTC/2025alg2mid1.pdf)、[叶郁](../USTC/2025alg2mid2.pdf) | [普班统考](../USTC/2025alg2final.pdf)、[陈小伍](../USTC/2025alg2Hfinal.pdf) | 刘永强、叶郁、陈小伍（H） |
-|2026| 暂缺 | [叶郁](../USTC/2026alg2Hfinal.pdf) | 陈小伍、曹培根、叶郁（H） |
+|2026| [普班统考](../USTC/2026alg2mid.pdf) | [叶郁](../USTC/2026alg2Hfinal.pdf) | 陈小伍、曹培根、叶郁（H） |
 
 ## 代数学
 
@@ -54,6 +55,8 @@ layout: single  # 单栏布局
 |2022秋| 暂缺 | 张磊 |
 |2023秋| [期末](../USTC/2023alg3final.pdf) | 张磊/李沐西 |
 |2024秋| [期中](../USTC/2024alg3mid.pdf)、[期末](../USTC/2024alg3final.pdf) | 陈小伍/陈小发 |
+|2025秋| 暂缺 | 陈小伍 |
+|2026秋| 暂缺 | 陈小伍 |
 
 ## 交换代数
 
@@ -64,12 +67,13 @@ layout: single  # 单栏布局
 |2017| 暂缺 | 申屠钧超 |
 |2018| 暂缺 | 申屠钧超 |
 |2019| [期末](../USTC/2019CommAlg.pdf) | 陈小伍 |
-|2020| [期中](../USTC/2029CommAlgmid.pdf) | 马立明|
+|2020| [期中](../USTC/2019CommAlgmid.pdf) | 马立明 |
 |2021| 暂缺 | 杨金榜 |
 |2022| 暂缺 | 申屠钧超 |
 |2023| [期末](../USTC/2023CommAlg.pdf) | 许金兴 |
 |2024| 暂缺 | 申伊塃 |
-|2025| 暂缺 | 许金兴 |
+|2025| [期末](../USTC/2025CommAlg.pdf) | 许金兴 |
+|2026| - | 许金兴 |
 
 ## 代数几何
 
@@ -88,7 +92,7 @@ layout: single  # 单栏布局
 |2023| 暂缺 | 许金兴、曹阳、李沐西 | [代几1期末](../USTC/2023FAG1final.pdf) | 王振建 |
 |2024| 无 | 无 | [代几1期末](../USTC/2024FAG1final.pdf) | 张磊 |
 |2025| 无 | 无 | [代几1期末](../USTC/2025FAG1final.pdf) | 张磊 |
-|2026| - | 许金兴 | - | - |
+|2026| - | 许金兴 | - | 张磊 |
 
 ## 同调代数
 
