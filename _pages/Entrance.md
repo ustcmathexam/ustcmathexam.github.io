@@ -18,6 +18,7 @@ layout: single  # 单栏布局
 |2023| [试题+答案](../USTC/2023USTCMATHentrance.pdf) | - |
 |2024| [试题+答案](../USTC/2024USTCMATHentrance.pdf) | - |
 |2025| [试题+答案](../USTC/2025USTCMATHentrance.pdf) | - |
+|2026| [试题+答案](../USTC/2026USTCMATHentrance.pdf) | - |
 
 ## 中国科大自主招生/少创班/强基考试等
 
@@ -52,6 +53,7 @@ layout: single  # 单栏布局
 |2023| [代数](../USTC/2023Salgqual.pdf) | [代数](../USTC/2023Falgqual.pdf)、[几何](../USTC/2023Fgeoqual.pdf) |
 |2024| 暂缺 | [分析](../USTC/2024Fanalqual.pdf)、[几何](../USTC/2024Fgeoqual.pdf) |
 |2025| [分析](../USTC/2025Sanalqual.pdf) | - |
+|2025| 暂缺 | [分析+代数+几何+概率](../USTC/2026Fqual.zip) |
 
 ## 中国科大数学学院保研夏令营
 
