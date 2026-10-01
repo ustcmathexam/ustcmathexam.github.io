@@ -95,9 +95,9 @@ layout: single  # 单栏布局
 |2018| [期中](../USTC/2018DMmid.pdf)、[期末](../USTC/2018DMfinal.pdf) | 王作勤 |
 |2019| [期末](../USTC/2019DMfinal.pdf) | 许小卫 |
 |2020| 暂缺 | 申屠钧超 |
-|2021| [期中](../USTC/2021DMmid.pdf) | 王作勤 |
+|2021| [期中](../USTC/2021DMmid.pdf)、[期末](../USTC/2021DMfinal.pdf) | 王作勤 |
 |2022| 暂缺 | 许小卫 |
-|2023| [期中](../USTC/2023DMmid.pdf) | 王作勤 |
+|2023| [期中](../USTC/2023DMmid.pdf)、[期末](../USTC/2023DMfinal.pdf) | 王作勤 |
 |2024| [期中](../USTC/2024DMmid.pdf)、[期末](../USTC/2024DMfinal.pdf) | 张俊 |
 |2025| [期末](../USTC/2025DMfinal.pdf) | 张永兵 |
 
